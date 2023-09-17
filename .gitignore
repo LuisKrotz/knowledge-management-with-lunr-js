@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+src/app/firebaseConfig.ts
