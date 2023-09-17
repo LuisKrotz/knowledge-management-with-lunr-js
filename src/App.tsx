@@ -44,7 +44,7 @@ const SearchComponent: React.FC = () => {
     const dbRef = ref(getDatabase())
 
     const getDocuments = () => {
-        get(child(dbRef, 'exchange'))
+        get(child(dbRef, 'documents'))
             .then((snapshot) => {
                 if (snapshot.exists()) {
                     const data = snapshot.val()
