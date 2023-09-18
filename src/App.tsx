@@ -89,23 +89,24 @@ const SearchComponent: React.FC = () => {
 
   // Handle the query change event
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    // Get the query value
     const query = event.target.value
-
-    // Set the query state
     setQuery(query)
 
-    console.log(query, results, documents)
+    const escapedQuery = query.replace(/[:+-~]/g, '\\$&')
 
-    // Search the index with the query
+    // Search the index with the escaped query
     if (index) {
-      const results = index.search(query).map(({ ref }) => {
+      //  lunr does not support using both fuzzy search and field-based search in the same query.
+      // This is because lunr expects either a field name or a term after the colon (:), not an edit distance modifier (~).
+      // To prevent any errors, we set a minimum of X chats to enable the search with the fuzzy option enabled
+      // To use a fuzzy search option by add a ~ symbol after the query term
+      // This will allow for some errors in spelling or typing
+      // You can also adjust the number of errors allowed by adding a number after the ~ symbol
+      // For example, query~2 will allow for up to two errors
+      const results = escapedQuery.length > 2 ? index.search(`${escapedQuery}~2`).map(({ ref }) => {
         // Convert both ref and id to numbers before comparing them
         return documents.find((doc) => Number(doc.id) === Number(ref))
-      }) as Document[]
-
-
-      console.log(results)
+      }) as Document[] : []
 
       // Set the results state
       setResults(results)
@@ -133,4 +134,5 @@ const SearchComponent: React.FC = () => {
   )
 }
 
-export default SearchComponent
+// Use React.memo to wrap the component and avoid re-rendering if the props do not change
+export default React.memo(SearchComponent)
