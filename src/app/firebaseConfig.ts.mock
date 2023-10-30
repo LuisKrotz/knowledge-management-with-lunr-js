@@ -1,0 +1,12 @@
+const firebaseConfig = {
+    apiKey: 'mockApiKeyRandomIDe485084568095809690',
+    authDomain: 'mock-domain.firebaseapp.com',
+    databaseURL: 'mock-domain.firebaseio.com',
+    projectId: 'mock-project-name-js',
+    storageBucket: 'mock-storage-bucket.appspot.com',
+    messagingSenderId: '9999999',
+    appId: '9:99999999:web:9999999999999',
+    measurementId: 'G-DEMOID9999'
+}
+
+export default firebaseConfig
