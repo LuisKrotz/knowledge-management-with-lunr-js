@@ -6,9 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-package-lock.json
-yarn.lock
 
+# Diagnostic reports (https://nodejs.org/api/report.html)
+package-lock.json
+
+# Output of 'npm pack'
 node_modules
 dist
 dist-ssr

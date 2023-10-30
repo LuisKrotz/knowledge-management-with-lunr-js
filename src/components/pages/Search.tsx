@@ -1,5 +1,5 @@
 
-import firebaseConfig from './app/firebaseConfig'
+import firebaseConfig from '../../app/firebaseConfig'
 import { initializeApp } from 'firebase/app'
 import { getAnalytics } from 'firebase/analytics'
 import { child, get, getDatabase, ref } from 'firebase/database'
@@ -15,7 +15,7 @@ interface Document {
 }
 
 // Define a component that uses lunr to search the documents
-const SearchComponent: React.FC = () => {
+const Search: React.FC = () => {
   // Initialize the state variables
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<Document[]>([])
@@ -25,6 +25,7 @@ const SearchComponent: React.FC = () => {
 
   // Initialize Firebase
   const firebase = initializeApp(firebaseConfig)
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const analytics = getAnalytics(firebase)
   const dbRef = ref(getDatabase())
 
@@ -135,4 +136,4 @@ const SearchComponent: React.FC = () => {
 }
 
 // Use React.memo to wrap the component and avoid re-rendering if the props do not change
-export default React.memo(SearchComponent)
+export default React.memo(Search)

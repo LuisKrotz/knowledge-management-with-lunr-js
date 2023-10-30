@@ -1,0 +1,23 @@
+.ttl {
+    &-md {
+        font-weight: 400;
+    }
+
+    &-md {
+        font-size: to-rem($F8);
+
+        @include layout-1024() {
+            font-size: to-rem($F9);
+        }
+    }
+}
+
+.txt {
+    &-md {
+        font-size: to-rem($F8);
+    }
+
+    &-sm {
+        font-size: to-rem($F7);
+    }
+}

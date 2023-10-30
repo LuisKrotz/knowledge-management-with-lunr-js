@@ -1,0 +1,16 @@
+@import '_variables';
+@import '_mixins';
+@import '_fonts';
+@import '_placeholders';
+@import '_structure';
+@import './common/utilities';
+@import './navbar';
+@import './footer';
+
+.app__main {
+    position: relative;
+    padding: to-rem(80) to-rem(20) to-rem(180);
+    margin: 0 auto;
+    box-sizing: border-box;
+    min-height: 100vh;
+}

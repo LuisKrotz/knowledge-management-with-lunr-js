@@ -1,0 +1,115 @@
+:root {
+    --white: #f1f7fb;
+    --black: #001c30;
+    --grey-1: #aeb5b7;
+    --grey-2: #dce6ea;
+    --grey-3: #494d50;
+    --accent: #3a6b60;
+
+    // REACT TOASTIFY
+    // https://fkhadra.github.io/react-toastify/how-to-style/
+    --toastify-color-light: var(--white);
+    --toastify-color-dark: var(--black);
+    --toastify-color-info: #185075;
+    --toastify-color-success: #2b5d07;
+    --toastify-color-warning: #e59c00;
+    --toastify-color-error: #a51100;
+    --toastify-color-transparent: rgba(247, 242, 234, 0.7);
+
+    --toastify-toast-width: 20rem;
+    --toastify-toast-background: var(--white);
+    --toastify-toast-min-height: 4rem;
+    --toastify-toast-max-height: 50rem;
+    --toastify-font-family: 'Fira Sans', sans-serif;
+    --toastify-z-index: 100;
+
+    --toastify-text-color-light: var(--grey-3);
+
+    --toastify-spinner-color: var(--accent);
+    --toastify-spinner-color-empty-area: #5b3a6b46;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: 'Fira Sans', serif;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: var(--white);
+    color: var(--black);
+}
+
+q,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+label,
+ul,
+ol,
+figure,
+video,
+image,
+iframe,
+figure,
+picture,
+blockquote {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    @extend %RESET-BUTTON;
+}
+
+select > option {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.hdn {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.hdn.focusable:active,
+.hdn.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}

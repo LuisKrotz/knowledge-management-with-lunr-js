@@ -1,0 +1,32 @@
+@import '_variables';
+@import '_mixins';
+@import '_fonts';
+@import '_placeholders';
+
+.search-box {
+    max-width: to-rem(320);
+    position: relative;
+    margin: to-rem(90) auto;
+    padding: to-rem(21);
+    box-sizing: border-box;
+
+    &--label {
+        display: block;
+    }
+
+    &--input,
+    &--select {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        font-size: to-rem(16);
+        padding: to-rem(4);
+        border: 1px solid #000;
+        border-radius: 0;
+    }
+
+    &--select {
+        margin-top: to-rem(20);
+        margin-bottom: to-rem(-1);
+    }
+}
