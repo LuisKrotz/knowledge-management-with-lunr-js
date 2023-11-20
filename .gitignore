@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 yarn.lock
+.firebase/hosting.*.cache
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 package-lock.json
