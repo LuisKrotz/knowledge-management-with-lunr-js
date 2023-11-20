@@ -1,0 +1,1549 @@
+{
+  "data": {
+    "customer-support": {
+      "en-us": [
+        null,
+        {
+          "answer": "TechSolve is an I.T company that sells services such as web development, software development, mobile app development, cloud computing, cybersecurity and I.T consulting.",
+          "question": "What is TechSolve?"
+        },
+        {
+          "answer": "The mission of TechSolve is to provide high-quality, affordable and customized I.T solutions to businesses and individuals.",
+          "question": "What is the mission of TechSolve?"
+        },
+        {
+          "answer": "TechSolve values customer satisfaction, innovation, quality, integrity and teamwork.",
+          "question": "What are the values of TechSolve?"
+        },
+        {
+          "answer": "By choosing TechSolve, you can enjoy the benefits of having a reliable, experienced and professional I.T partner who can help you solve your tech problems with ease and efficiency. You can also save time, money and resources by outsourcing your I.T needs to TechSolve.",
+          "question": "What are the benefits of choosing TechSolve?"
+        },
+        {
+          "answer": "You can contact TechSolve by visiting their website, calling their phone number, sending them an email or following them on social media.",
+          "question": "How can I contact TechSolve?"
+        },
+        {
+          "answer": "The rates of TechSolve vary depending on the type, scope and complexity of the project. TechSolve offers competitive and transparent pricing that suits your budget and requirements.",
+          "question": "What are the rates of TechSolve?"
+        },
+        {
+          "answer": "TechSolve's clients are very satisfied and impressed with the quality and performance of their I.T solutions. They praise TechSolve for their professionalism, responsiveness, creativity and expertise. You can read some of their testimonials on TechSolve's website.",
+          "question": "What are the testimonials of TechSolve's clients?"
+        },
+        {
+          "answer": "TechSolve uses the latest technologies and tools to create cutting-edge solutions that give you a competitive edge. Some of the technologies and tools that TechSolve uses are HTML, CSS, JavaScript, React, Angular, Node.js, Python, Django, C#, .NET, Xamarin, Swift, Kotlin, Firebase, AWS, Azure, Google Cloud, MongoDB, MySQL, PostgreSQL, SQL Server, Shopify, Laravel, Bootstrap, Material UI, Ant Design, Tailwind CSS, Git, GitHub, Visual Studio Code, Android Studio, Xcode, Sketch, Figma, Jira, Teams, Office 365, etc.",
+          "question": "What are the technologies and tools that TechSolve uses?"
+        },
+        {
+          "answer": "The duration of a project depends on the type, scope and complexity of the project. TechSolve will provide you with a realistic and accurate estimate of the time and cost of the project before starting the work. TechSolve will also keep you updated on the progress and status of the project throughout the development process.",
+          "question": "How long does it take for TechSolve to complete a project?"
+        },
+        {
+          "answer": "You can get a free and no-obligation quote from TechSolve by filling out a simple form on their website. You can also call, email or chat with TechSolve to discuss your project details and requirements. TechSolve will get back to you with a customized and detailed proposal within 24 hours.",
+          "question": "How can I get a quote from TechSolve?"
+        },
+        {
+          "answer": "TechSolve offers web development services such as website design, website development, website maintenance, website optimization, website security, website hosting, domain registration, e-commerce development, content management system (CMS) development, web application development, progressive web app (PWA) development, etc.",
+          "question": "What are the types of web development services that TechSolve offers?"
+        },
+        {
+          "answer": "TechSolve offers software development services such as desktop application development, web application development, mobile application development, software testing, software debugging, software integration, software deployment, software maintenance, software documentation, software customization, software migration, software modernization, software enhancement, software support, etc.",
+          "question": "What are the types of software development services that TechSolve offers?"
+        },
+        {
+          "answer": "TechSolve offers mobile app development services such as native app development, cross-platform app development, hybrid app development, mobile app design, mobile app testing, mobile app debugging, mobile app integration, mobile app deployment, mobile app maintenance, mobile app documentation, mobile app customization, mobile app migration, mobile app modernization, mobile app enhancement, mobile app support, etc.",
+          "question": "What are the types of mobile app development services that TechSolve offers?"
+        },
+        {
+          "answer": "TechSolve offers cloud computing services such as cloud migration, cloud management, cloud optimization, cloud security, cloud backup, cloud disaster recovery, cloud monitoring, cloud automation, cloud orchestration, cloud scaling, cloud consulting, cloud architecture, cloud development, cloud deployment, cloud maintenance, cloud support, etc.",
+          "question": "What are the types of cloud computing services that TechSolve offers?"
+        },
+        {
+          "answer": "TechSolve offers cybersecurity services such as vulnerability assessment, penetration testing, ethical hacking, malware analysis, malware removal, ransomware protection, ransomware recovery, phishing prevention, phishing detection, phishing response, firewall installation, firewall configuration, firewall management, antivirus installation, antivirus configuration, antivirus management, encryption, decryption, data protection, data recovery, data breach prevention, data breach detection, data breach response, identity and access management, authentication, authorization, password management, multi-factor authentication, single sign-on, biometric authentication, network security, network monitoring, network auditing, network hardening, network segmentation, network isolation, network firewall, network antivirus, network encryption, network decryption, network protection, network recovery, web security, web scanning, web filtering, web blocking, web encryption, web decryption, web protection, web recovery, email security, email scanning, email filtering, email blocking, email encryption, email decryption, email protection, email recovery, etc.",
+          "question": "What are the types of cybersecurity services that TechSolve offers?"
+        },
+        {
+          "answer": "TechSolve offers I.T consulting services such as I.T strategy, I.T planning, I.T analysis, I.T design, I.T implementation, I.T evaluation, I.T audit, I.T review, I.T recommendation, I.T improvement, I.T optimization, I.T innovation, I.T transformation, I.T governance, I.T compliance, I.T risk management, I.T project management, I.T change management, I.T quality management, I.T performance management, I.T cost management, I.T resource management, I.T communication management, I.T stakeholder management, I.T knowledge management, I.T training, I.T coaching, I.T mentoring, I.T support, etc.",
+          "question": "What are the types of I.T consulting services that TechSolve offers?"
+        },
+        {
+          "answer": "TechSolve serves a wide range of industries, such as education, healthcare, finance, retail, e-commerce, hospitality, tourism, entertainment, media, gaming, sports, real estate, construction, manufacturing, logistics, transportation, energy, utilities, agriculture, environment, government, non-profit, etc.",
+          "question": "What are the industries that TechSolve serves?"
+        },
+        {
+          "answer": "TechSolve serves businesses of all sizes, from small to medium to large enterprises. TechSolve also serves individuals, freelancers, entrepreneurs, startups, etc.",
+          "question": "What are the sizes of the businesses that TechSolve serves?"
+        },
+        {
+          "answer": "TechSolve serves businesses from all over the world, regardless of their location, time zone, language, culture, etc. TechSolve uses online tools and platforms to communicate and collaborate with their clients effectively and efficiently.",
+          "question": "What are the locations of the businesses that TechSolve serves?"
+        },
+        {
+          "answer": "The advantages of web development services from TechSolve are:\n- You can have a responsive, user-friendly and secure website that works well on all devices and browsers\n- You can have a website that reflects your brand identity, vision and values\n- You can have a website that attracts, engages and converts your target audience\n- You can have a website that is optimized for search engines, speed and performance\n- You can have a website that is easy to update, maintain and scale\n- You can have a website that is hosted on a reliable, fast and secure server\n- You can have a website that is registered with a unique and memorable domain name\n- You can have a website that is integrated with your social media, email, analytics, payment, etc.",
+          "question": "What are the advantages of web development services from TechSolve?"
+        },
+        {
+          "answer": "The advantages of software development services from TechSolve are:\n- You can have a custom software application that meets your specific needs and preferences\n- You can have a software application that is compatible with your existing systems and platforms\n- You can have a software application that is scalable, reliable and secure\n- You can have a software application that is tested, debugged and optimized for quality and performance\n- You can have a software application that is deployed, maintained and supported by TechSolve\n- You can have a software application that is documented, customized and enhanced by TechSolve",
+          "question": "What are the advantages of software development services from TechSolve?"
+        },
+        {
+          "answer": "The advantages of mobile app development services from TechSolve are:\n- You can have a native or cross-platform mobile app that works well on iOS and Android devices\n- You can have a mobile app that has a stunning, intuitive and user-friendly design\n- You can have a mobile app that has a rich, interactive and engaging functionality\n- You can have a mobile app that is optimized for speed, performance and battery life\n- You can have a mobile app that is integrated with your web, cloud and other services\n- You can have a mobile app that is tested, debugged and secured from bugs and errors\n- You can have a mobile app that is deployed, maintained and supported by TechSolve\n- You can have a mobile app that is documented, customized and enhanced by TechSolve",
+          "question": "What are the advantages of mobile app development services from TechSolve?"
+        },
+        {
+          "answer": "The advantages of cloud computing services from TechSolve are:\n- You can have a cloud infrastructure and service that suits your business needs and goals\n- You can have a cloud infrastructure and service that is flexible, scalable and cost-effective\n- You can have a cloud infrastructure and service that is reliable, available and resilient\n- You can have a cloud infrastructure and service that is secure, compliant and protected\n- You can have a cloud infrastructure and service that is managed, optimized and automated by TechSolve\n- You can have a cloud infrastructure and service that is monitored, audited and backed up by TechSolve\n- You can have a cloud infrastructure and service that is supported, consulted and advised by TechSolve",
+          "question": "What are the advantages of cloud computing services from TechSolve?"
+        },
+        {
+          "answer": "The advantages of cybersecurity services from TechSolve are:\n- You can have a cybersecurity solution that protects your data and systems from cyber threats and attacks\n- You can have a cybersecurity solution that detects and responds to cyber incidents and breaches\n- You can have a cybersecurity solution that recovers and restores your data and systems from cyber damages\n- You can have a cybersecurity solution that prevents and mitigates cyber risks and vulnerabilities\n- You can have a cybersecurity solution that complies with the relevant laws and regulations\n- You can have a cybersecurity solution that is assessed, tested and audited by TechSolve\n- You can have a cybersecurity solution that is supported, consulted and advised by TechSolve",
+          "question": "What are the advantages of cybersecurity services from TechSolve?"
+        },
+        {
+          "answer": "The advantages of I.T consulting services from TechSolve are:\n- You can have an I.T strategy and plan that aligns with your business vision and mission\n- You can have an I.T analysis and design that identifies and solves your business problems and challenges\n- You can have an I.T implementation and evaluation that delivers and measures your business solutions and outcomes\n- You can have an I.T audit and review that ensures and improves your I.T quality and performance\n- You can have an I.T recommendation and improvement that optimizes and innovates your I.T processes and practices\n- You can have an I.T transformation and governance that changes and controls your I.T environment and culture\n- You can have an I.T support and training that assists and educates your I.T staff and users",
+          "question": "What are the advantages of I.T consulting services from TechSolve?"
+        },
+        {
+          "answer": "TechSolve ensures the quality and performance of their I.T solutions by:\n- Following the best I.T standards and methodologies in their work and products\n- Using the latest I.T technologies and tools in their work and products\n- Applying the best I.T practices and techniques in their work and products\n- Testing, debugging and optimizing their work and products for quality and performance\n- Monitoring, auditing and reviewing their work and products for quality and performance\n- Improving, enhancing and updating their work and products for quality and performance",
+          "question": "How does TechSolve ensure the quality and performance of their I.T solutions?"
+        },
+        {
+          "answer": "TechSolve ensures the security and protection of their I.T solutions by:\n- Following the best I.T security standards and policies in their work and products\n- Using the best I.T security technologies and tools in their work and products\n- Applying the best I.T security practices and techniques in their work and products\n- Encrypting, decrypting and protecting their work and products from unauthorized access and modification\n- Scanning, filtering and blocking their work and products from malicious attacks and threats\n- Backing up, recovering and restoring their work and products from accidental or intentional damages and losses",
+          "question": "How does TechSolve ensure the security and protection of their I.T solutions?"
+        },
+        {
+          "answer": "TechSolve ensures the satisfaction and loyalty of their clients by:\n- Listening to their needs and expectations and delivering solutions that meet or exceed them\n- Communicating and collaborating with them effectively and efficiently throughout the project\n- Providing them with transparent and competitive pricing that suits their budget and requirements\n- Providing them with timely and accurate estimates and proposals for their projects\n- Providing them with regular and clear updates and reports on the progress and status of their projects\n- Providing them with high-quality and professional I.T solutions that give them a competitive edge\n- Providing them with ongoing and reliable I.T support and maintenance for their solutions\n- Providing them with valuable and honest I.T feedback and advice for their solutions",
+          "question": "How does TechSolve ensure the satisfaction and loyalty of their clients?"
+        },
+        {
+          "answer": "The process of working with TechSolve on a project is as follows:\n- You contact TechSolve by visiting their website, calling their phone number, sending them an email or following them on social media\n- You discuss your project details and requirements with TechSolve and provide them with any relevant information and documents\n- TechSolve analyzes your project and provides you with a free and no-obligation quote and proposal within 24 hours\n- You review the quote and proposal and accept or negotiate it with TechSolve\n- TechSolve assigns a dedicated project manager and a team of I.T experts to your project\n- TechSolve starts working on your project according to the agreed scope, timeline and budget\n- TechSolve communicates and collaborates with you throughout the project and keeps you updated on the progress and status of your project\n- TechSolve delivers the final product to you and ensures your satisfaction and approval\n- TechSolve provides you with ongoing and reliable I.T support and maintenance for your product",
+          "question": "What is the process of working with TechSolve on a project?"
+        },
+        {
+          "answer": "TechSolve's I.T experts are highly qualified and experienced in their respective fields. They have:\n- Relevant I.T degrees, certifications and trainings from reputable institutions and organizations\n- Proven I.T skills, knowledge and expertise in various I.T domains and technologies\n- Extensive I.T portfolio, testimonials and references from previous and current clients\n- Passionate I.T attitude, enthusiasm and creativity in their work and products\n- Professional I.T ethics, values and standards in their work and products",
+          "question": "What are the credentials and qualifications of TechSolve's I.T experts?"
+        },
+        {
+          "answer": "The tagline of TechSolve is: We solve your tech problems with ease and efficiency.",
+          "question": "What is the tagline of TechSolve?"
+        },
+        {
+          "answer": "The mission of TechSolve is: To provide high-quality, affordable and customized I.T solutions to businesses and individuals.",
+          "question": "What is the mission of TechSolve?"
+        },
+        {
+          "answer": "The values of TechSolve are: Customer satisfaction, innovation, quality, integrity and teamwork.",
+          "question": "What are the values of TechSolve?"
+        },
+        {
+          "answer": "The services of TechSolve are: Web development, software development, mobile app development, cloud computing, cybersecurity and I.T consulting.",
+          "question": "What are the services of TechSolve?"
+        },
+        {
+          "answer": "The logo of TechSolve is a blue and green stylized letter T with a light bulb inside it.",
+          "question": "What is the logo of TechSolve?"
+        },
+        {
+          "answer": "You can get a free quote from TechSolve by filling out a simple form on their website, calling their phone number, sending them an email or chatting with them online.",
+          "question": "How can I get a free quote from TechSolve?"
+        },
+        {
+          "answer": "The duration of a project depends on the type, scope and complexity of the project. TechSolve will provide you with a realistic and accurate estimate of the time and cost of the project before starting the work.",
+          "question": "How long does TechSolve take to complete a project?"
+        },
+        {
+          "answer": "TechSolve communicates and collaborates with their clients using online tools and platforms such as email, phone, chat, video call, social media, Trello, Jira, Slack, Zoom, Google Meet, etc.",
+          "question": "How does TechSolve communicate and collaborate with their clients?"
+        },
+        {
+          "answer": "TechSolve ensures the satisfaction and loyalty of their clients by listening to their needs and expectations, delivering solutions that meet or exceed them, providing transparent and competitive pricing, keeping them updated on the progress and status of their projects, providing high-quality and professional I.T solutions, and providing ongoing and reliable I.T support and maintenance.",
+          "question": "How does TechSolve ensure the satisfaction and loyalty of their clients?"
+        },
+        {
+          "answer": "TechSolve's clients are very satisfied and impressed with the quality and performance of their I.T solutions. They praise TechSolve for their professionalism, responsiveness, creativity and expertise. You can read some of their testimonials on TechSolve's website.",
+          "question": "What are the testimonials of TechSolve's clients?"
+        },
+        {
+          "answer": "By choosing TechSolve for web development, you can enjoy the benefits of having a responsive, user-friendly and secure website that works well on all devices and browsers, reflects your brand identity, vision and values, attracts, engages and converts your target audience, is optimized for search engines, speed and performance, is easy to update, maintain and scale, is hosted on a reliable, fast and secure server, is registered with a unique and memorable domain name, and is integrated with your social media, email, analytics, payment, etc.",
+          "question": "What are the benefits of choosing TechSolve for web development?"
+        },
+        {
+          "answer": "By choosing TechSolve for software development, you can enjoy the benefits of having a custom software application that meets your specific needs and preferences, is compatible with your existing systems and platforms, is scalable, reliable and secure, is tested, debugged and optimized for quality and performance, is deployed, maintained and supported by TechSolve, and is documented, customized and enhanced by TechSolve.",
+          "question": "What are the benefits of choosing TechSolve for software development?"
+        },
+        {
+          "answer": "By choosing TechSolve for mobile app development, you can enjoy the benefits of having a native or cross-platform mobile app that works well on iOS and Android devices, has a stunning, intuitive and user-friendly design, has a rich, interactive and engaging functionality, is optimized for speed, performance and battery life, is integrated with your web, cloud and other services, is tested, debugged and secured from bugs and errors, is deployed, maintained and supported by TechSolve, and is documented, customized and enhanced by TechSolve.",
+          "question": "What are the benefits of choosing TechSolve for mobile app development?"
+        },
+        {
+          "answer": "By choosing TechSolve for cloud computing, you can enjoy the benefits of having a cloud infrastructure and service that suits your business needs and goals, is flexible, scalable and cost-effective, is reliable, available and resilient, is secure, compliant and protected, is managed, optimized and automated by TechSolve, is monitored, audited and backed up by TechSolve, and is supported, consulted and advised by TechSolve.",
+          "question": "What are the benefits of choosing TechSolve for cloud computing?"
+        },
+        {
+          "answer": "By choosing TechSolve for cybersecurity, you can enjoy the benefits of having a cybersecurity solution that protects your data and systems from cyber threats and attacks, detects and responds to cyber incidents and breaches, recovers and restores your data and systems from cyber damages, prevents and mitigates cyber risks and vulnerabilities, complies with the relevant laws and regulations, is assessed, tested and audited by TechSolve, and is supported, consulted and advised by TechSolve.",
+          "question": "What are the benefits of choosing TechSolve for cybersecurity?"
+        },
+        {
+          "answer": "By choosing TechSolve for I.T consulting, you can enjoy the benefits of having an I.T strategy and plan that aligns with your business vision and mission, an I.T analysis and design that identifies and solves your business problems and challenges, an I.T implementation and evaluation that delivers and measures your business solutions and outcomes, an I.T audit and review that ensures and improves your I.T quality and performance, an I.T recommendation and improvement that optimizes and innovates your I.T processes and practices, an I.T transformation and governance that changes and controls your I.T environment and culture, and an I.T support and training that assists and educates your I.T staff and users.",
+          "question": "What are the benefits of choosing TechSolve for I.T consulting?"
+        },
+        {
+          "answer": "TechSolve serves a wide range of industries, such as education, healthcare, finance, retail, e-commerce, hospitality, tourism, entertainment, media, gaming, sports, real estate, construction, manufacturing, logistics, transportation, energy, utilities, agriculture, environment, government, non-profit, etc.",
+          "question": "What are the industries that TechSolve serves?"
+        },
+        {
+          "answer": "TechSolve serves businesses of all sizes, from small to medium to large enterprises. TechSolve also serves individuals, freelancers, entrepreneurs, startups, etc.",
+          "question": "What are the sizes of the businesses that TechSolve serves?"
+        },
+        {
+          "answer": "TechSolve serves businesses from all over the world, regardless of their location, time zone, language, culture, etc. TechSolve uses online tools and platforms to communicate and collaborate with their clients effectively and efficiently.",
+          "question": "What are the locations of the businesses that TechSolve serves?"
+        },
+        {
+          "answer": "The rates of TechSolve vary depending on the type, scope and complexity of the project. TechSolve offers competitive and transparent pricing that suits your budget and requirements.",
+          "question": "What are the rates of TechSolve?"
+        }
+      ],
+      "es": [
+        null,
+        {
+          "answer": "TechSolve es una empresa de T.I que ofrece servicios como desarrollo web, desarrollo de software, desarrollo de aplicaciones móviles, computación en la nube, seguridad cibernética y consultoría en T.I.",
+          "question": "¿Qué es TechSolve?"
+        },
+        {
+          "answer": "La misión de TechSolve es proporcionar soluciones de T.I de alta calidad, accesibles y personalizadas para empresas e individuos.",
+          "question": "¿Cuál es la misión de TechSolve?"
+        },
+        {
+          "answer": "TechSolve valora la satisfacción del cliente, la innovación, la calidad, la integridad y el trabajo en equipo.",
+          "question": "¿Cuáles son los valores de TechSolve?"
+        },
+        {
+          "answer": "Al elegir TechSolve, puedes disfrutar de los beneficios de tener un socio de T.I confiable, experimentado y profesional que puede ayudarte a resolver tus problemas tecnológicos con facilidad y eficiencia. También puedes ahorrar tiempo, dinero y recursos al externalizar tus necesidades de T.I a TechSolve.",
+          "question": "¿Cuáles son los beneficios de elegir TechSolve?"
+        },
+        {
+          "answer": "Puedes contactar a TechSolve visitando su sitio web, llamando al número de teléfono, enviando un correo electrónico o siguiéndolos en las redes sociales.",
+          "question": "¿Cómo puedo contactar a TechSolve?"
+        },
+        {
+          "answer": "Las tarifas de TechSolve varían según el tipo, alcance y complejidad del proyecto. TechSolve ofrece precios competitivos y transparentes que se adaptan a tu presupuesto y requisitos.",
+          "question": "¿Cuáles son las tarifas de TechSolve?"
+        },
+        {
+          "answer": "Los clientes de TechSolve están muy satisfechos e impresionados con la calidad y el rendimiento de las soluciones de T.I. Elogian a TechSolve por su profesionalismo, capacidad de respuesta, creatividad y experiencia. Puedes leer algunos de los testimonios en el sitio web de TechSolve.",
+          "question": "¿Cuáles son los testimonios de los clientes de TechSolve?"
+        },
+        {
+          "answer": "TechSolve utiliza las tecnologías y herramientas más recientes para crear soluciones de vanguardia que te brindan una ventaja competitiva. Algunas de las tecnologías y herramientas que utiliza TechSolve son HTML, CSS, JavaScript, React, Angular, Node.js, Python, Django, C#, .NET, Xamarin, Swift, Kotlin, Firebase, AWS, Azure, Google Cloud, MongoDB, MySQL, PostgreSQL, SQL Server, Shopify, Laravel, Bootstrap, Material UI, Ant Design, Tailwind CSS, Git, GitHub, Visual Studio Code, Android Studio, Xcode, Sketch, Figma, Jira, Teams, Office 365, etc.",
+          "question": "¿Cuáles son las tecnologías y herramientas que utiliza TechSolve?"
+        },
+        {
+          "answer": "La duración de un proyecto depende del tipo, alcance y complejidad del proyecto. TechSolve proporcionará una estimación realista y precisa del tiempo y costo del proyecto antes de comenzar el trabajo. TechSolve también te mantendrá actualizado sobre el progreso y estado del proyecto durante todo el proceso de desarrollo.",
+          "question": "¿Cuánto tiempo tarda TechSolve en completar un proyecto?"
+        },
+        {
+          "answer": "Puedes obtener un presupuesto gratuito y sin compromiso de TechSolve completando un formulario simple en su sitio web. También puedes llamar, enviar un correo electrónico o chatear con TechSolve para discutir los detalles y requisitos de tu proyecto. TechSolve se pondrá en contacto contigo con una propuesta personalizada y detallada en un plazo de 24 horas.",
+          "question": "¿Cómo puedo obtener un presupuesto de TechSolve?"
+        },
+        {
+          "answer": "TechSolve ofrece servicios de desarrollo web, como diseño de sitios web, desarrollo de sitios web, mantenimiento de sitios web, optimización de sitios web, seguridad de sitios web, alojamiento de sitios web, registro de dominio, desarrollo de comercio electrónico, desarrollo de sistemas de gestión de contenido (CMS), desarrollo de aplicaciones web, desarrollo de aplicaciones web progresivas (PWA), etc.",
+          "question": "¿Cuáles son los tipos de servicios de desarrollo web que ofrece TechSolve?"
+        },
+        {
+          "answer": "TechSolve ofrece servicios de desarrollo de software, como desarrollo de aplicaciones de escritorio, desarrollo de aplicaciones web, desarrollo de aplicaciones móviles, pruebas de software, depuración de software, integración de software, implementación de software, mantenimiento de software, documentación de software, personalización de software, migración de software, modernización de software, mejora de software, soporte de software, etc.",
+          "question": "¿Cuáles son los tipos de servicios de desarrollo de software que ofrece TechSolve?"
+        },
+        {
+          "answer": "TechSolve ofrece servicios de desarrollo de aplicaciones móviles, como desarrollo de aplicaciones nativas, desarrollo de aplicaciones multiplataforma, desarrollo de aplicaciones híbridas, diseño de aplicaciones móviles, pruebas de aplicaciones móviles, depuración de aplicaciones móviles, integración de aplicaciones móviles, implementación de aplicaciones móviles, mantenimiento de aplicaciones móviles, documentación de aplicaciones móviles, personalización de aplicaciones móviles, migración de aplicaciones móviles, modernización de aplicaciones móviles, mejora de aplicaciones móviles, soporte de aplicaciones móviles, etc.",
+          "question": "¿Cuáles son los tipos de servicios de desarrollo de aplicaciones móviles que ofrece TechSolve?"
+        },
+        {
+          "answer": "TechSolve ofrece servicios de computación en la nube, como migración a la nube, gestión de la nube, optimización de la nube, seguridad en la nube, copia de seguridad en la nube, recuperación ante desastres en la nube, monitoreo de la nube, automatización de la nube, orquestación de la nube, escalado de la nube, consultoría en la nube, arquitectura en la nube, desarrollo en la nube, implementación en la nube, mantenimiento en la nube, soporte en la nube, etc.",
+          "question": "¿Cuáles son los tipos de servicios de computación en la nube que ofrece TechSolve?"
+        },
+        {
+          "answer": "TechSolve ofrece servicios de seguridad cibernética, como evaluación de vulnerabilidades, pruebas de penetración, hacking ético, análisis de malware, eliminación de malware, protección contra ransomware, recuperación de ransomware, prevención de phishing, detección de phishing, respuesta a phishing, instalación de firewall, configuración de firewall, gestión de firewall, instalación de antivirus, configuración de antivirus, gestión de antivirus, cifrado, descifrado, protección de datos, recuperación de datos, prevención de violaciones de datos, detección de violaciones de datos, respuesta a violaciones de datos, gestión de identidad y acceso, autenticación, autorización, gestión de contraseñas, autenticación de múltiples factores, inicio de sesión único, autenticación biométrica, seguridad de red, monitoreo de red, auditoría de red, fortalecimiento de red, segmentación de red, aislamiento de red, firewall de red, antivirus de red, cifrado de red, descifrado de red, protección de red, recuperación de red, seguridad web, escaneo web, filtrado web, bloqueo web, cifrado web, descifrado web, protección web, recuperación web, seguridad de correo electrónico, escaneo de correo electrónico, filtrado de correo electrónico, bloqueo de correo electrónico, cifrado de correo electrónico, descifrado de correo electrónico, protección de correo electrónico, recuperación de correo electrónico, etc.",
+          "question": "¿Cuáles son los tipos de servicios de seguridad cibernética que ofrece TechSolve?"
+        },
+        {
+          "answer": "TechSolve ofrece servicios de consultoría en T.I, como estrategia de T.I, planificación de T.I, análisis de T.I, diseño de T.I, implementación de T.I, evaluación de T.I, auditoría de T.I, revisión de T.I, recomendación de T.I, mejora de T.I, optimización de T.I, innovación de T.I, transformación de T.I, gobernanza de T.I, cumplimiento de T.I, gestión de riesgos de T.I, gestión de proyectos de T.I, gestión de cambios de T.I, gestión de calidad de T.I, gestión de rendimiento de T.I, gestión de costos de T.I, gestión de recursos de T.I, gestión de comunicación de T.I, gestión de partes interesadas de T.I, gestión de conocimiento de T.I, capacitación de T.I, coaching de T.I, mentoría de T.I, soporte de T.I, etc.",
+          "question": "¿Qué tipos de servicios de consultoría en T.I ofrece TechSolve?"
+        },
+        {
+          "answer": "TechSolve atiende a una amplia gama de industrias, como educación, salud, finanzas, retail, comercio electrónico, hotelería, turismo, entretenimiento, medios de comunicación, juegos, deportes, bienes raíces, construcción, manufactura, logística, transporte, energía, servicios públicos, agricultura, medio ambiente, gobierno, sin fines de lucro, etc.",
+          "question": "¿Qué industrias atiende TechSolve?"
+        },
+        {
+          "answer": "TechSolve atiende a empresas de todos los tamaños, desde pequeñas hasta medianas y grandes empresas. TechSolve también atiende a individuos, freelancers, emprendedores, startups, etc.",
+          "question": "¿Qué tamaños de empresas atiende TechSolve?"
+        },
+        {
+          "answer": "TechSolve atiende a empresas de todo el mundo, independientemente de su ubicación, huso horario, idioma, cultura, etc. TechSolve utiliza herramientas y plataformas en línea para comunicarse y colaborar de manera efectiva y eficiente con sus clientes.",
+          "question": "¿En qué ubicaciones se encuentran las empresas que atiende TechSolve?"
+        },
+        {
+          "answer": "Las ventajas de los servicios de desarrollo web de TechSolve son:\n- Puedes tener un sitio web receptivo, amigable para el usuario y seguro que funcione bien en todos los dispositivos y navegadores\n- Puedes tener un sitio web que refleje la identidad, visión y valores de tu marca\n- Puedes tener un sitio web que atraiga, involucre y convierta a tu público objetivo\n- Puedes tener un sitio web optimizado para motores de búsqueda, velocidad y rendimiento\n- Puedes tener un sitio web fácil de actualizar, mantener y escalar\n- Puedes tener un sitio web alojado en un servidor confiable, rápido y seguro\n- Puedes tener un sitio web registrado con un nombre de dominio exclusivo y memorable\n- Puedes tener un sitio web integrado con tus redes sociales, correo electrónico, análisis, pagos, etc.",
+          "question": "¿Cuáles son las ventajas de los servicios de desarrollo web de TechSolve?"
+        },
+        {
+          "answer": "Las ventajas de los servicios de desarrollo de software de TechSolve son:\n- Puedes tener una aplicación de software personalizada que satisfaga tus necesidades y preferencias específicas\n- Puedes tener una aplicación de software compatible con tus sistemas y plataformas existentes\n- Puedes tener una aplicación de software escalable, confiable y segura\n- Puedes tener una aplicación de software probada, depurada y optimizada en cuanto a calidad y rendimiento\n- Puedes tener una aplicación de software implementada, mantenida y respaldada por TechSolve\n- Puedes tener una aplicación de software documentada, personalizada y mejorada por TechSolve",
+          "question": "¿Cuáles son las ventajas de los servicios de desarrollo de software de TechSolve?"
+        },
+        {
+          "answer": "Las ventajas de los servicios de desarrollo de aplicaciones móviles de TechSolve son:\n- Puedes tener una aplicación móvil nativa o multiplataforma que funcione bien en dispositivos iOS y Android\n- Puedes tener una aplicación móvil con un diseño impresionante, intuitivo y amigable para el usuario\n- Puedes tener una aplicación móvil con una funcionalidad rica, interactiva y atractiva\n- Puedes tener una aplicación móvil optimizada para velocidad, rendimiento y duración de la batería\n- Puedes tener una aplicación móvil integrada con tus servicios web, en la nube y otros\n- Puedes tener una aplicación móvil probada, depurada y protegida contra errores y fallas\n- Puedes tener una aplicación móvil implementada, mantenida y respaldada por TechSolve\n- Puedes tener una aplicación móvil documentada, personalizada y mejorada por TechSolve",
+          "question": "¿Cuáles son las ventajas de los servicios de desarrollo de aplicaciones móviles de TechSolve?"
+        },
+        {
+          "answer": "Las ventajas de los servicios de computación en la nube de TechSolve son:\n- Puedes tener una infraestructura y servicio en la nube que satisfaga tus necesidades y objetivos comerciales\n- Puedes tener una infraestructura y servicio en la nube flexible, escalable y económico\n- Puedes tener una infraestructura y servicio en la nube confiable, disponible y resistente\n- Puedes tener una infraestructura y servicio en la nube seguro, cumpliendo con las normativas y protegido\n- Puedes tener una infraestructura y servicio en la nube gestionado, optimizado y automatizado por TechSolve\n- Puedes tener una infraestructura y servicio en la nube monitoreado, auditado y respaldado por TechSolve\n- Puedes tener una infraestructura y servicio en la nube con soporte, consultoría y asesoramiento de TechSolve",
+          "question": "¿Cuáles son las ventajas de los servicios de computación en la nube de TechSolve?"
+        },
+        {
+          "answer": "Las ventajas de los servicios de seguridad cibernética de TechSolve son:\n- Puedes tener una solución de seguridad cibernética que proteja tus datos y sistemas contra amenazas y ataques cibernéticos\n- Puedes tener una solución de seguridad cibernética que detecte y responda a incidentes y violaciones cibernéticas\n- Puedes tener una solución de seguridad cibernética que recupere y restaure tus datos y sistemas de daños cibernéticos\n- Puedes tener una solución de seguridad cibernética que prevenga y mitigue riesgos y vulnerabilidades cibernéticas\n- Puedes tener una solución de seguridad cibernética que cumpla con las leyes y regulaciones pertinentes\n- Puedes tener una solución de seguridad cibernética evaluada, probada y auditada por TechSolve\n- Puedes tener una solución de seguridad cibernética con soporte, consultoría y asesoramiento de TechSolve",
+          "question": "¿Cuáles son las ventajas de los servicios de seguridad cibernética de TechSolve?"
+        },
+        {
+          "answer": "Las ventajas de los servicios de consultoría en T.I de TechSolve son:\n- Puedes tener una estrategia y plan de T.I alineados con la visión y misión de tu empresa\n- Puedes tener un análisis y diseño de T.I que identifiquen y resuelvan los problemas y desafíos de tu empresa\n- Puedes tener una implementación y evaluación de T.I que entreguen y midan las soluciones y resultados de tu empresa\n- Puedes tener una auditoría y revisión de T.I que garanticen y mejoren la calidad y el rendimiento de tu T.I\n- Puedes tener una recomendación y mejora de T.I que optimicen e innoven los procesos y prácticas de T.I de tu empresa\n- Puedes tener una transformación y gobernanza de T.I que cambien y controlen el entorno y la cultura de T.I de tu empresa\n- Puedes tener soporte y capacitación en T.I que ayuden y eduquen a tu equipo y usuarios de T.I",
+          "question": "¿Cuáles son las ventajas de los servicios de consultoría en T.I de TechSolve?"
+        },
+        {
+          "answer": "TechSolve garantiza la calidad y el rendimiento de sus soluciones de T.I mediante:\n- Seguir las mejores prácticas y metodologías de T.I en su trabajo y productos\n- Utilizar las tecnologías y herramientas más recientes de T.I en su trabajo y productos\n- Aplicar las mejores prácticas y técnicas de T.I en su trabajo y productos\n- Probar, depurar y optimizar su trabajo y productos para calidad y rendimiento\n- Monitorear, auditar y revisar su trabajo y productos para calidad y rendimiento\n- Mejorar, perfeccionar y actualizar su trabajo y productos para calidad y rendimiento",
+          "question": "¿Cómo garantiza TechSolve la calidad y el rendimiento de sus soluciones de T.I?"
+        },
+        {
+          "answer": "TechSolve garantiza la seguridad y protección de sus soluciones de T.I mediante:\n- Seguir las mejores prácticas y políticas de seguridad de T.I en su trabajo y productos\n- Utilizar las mejores tecnologías y herramientas de seguridad de T.I en su trabajo y productos\n- Aplicar las mejores prácticas y técnicas de seguridad de T.I en su trabajo y productos\n- Encriptar, desencriptar y proteger su trabajo y productos contra acceso y modificación no autorizados\n- Escanear, filtrar y bloquear su trabajo y productos contra ataques y amenazas maliciosas\n- Realizar copias de seguridad, recuperar y restaurar su trabajo y productos contra daños y pérdidas accidentales o intencionales",
+          "question": "¿Cómo garantiza TechSolve la seguridad y protección de sus soluciones de T.I?"
+        },
+        {
+          "answer": "TechSolve garantiza la satisfacción y fidelidad de sus clientes mediante:\n- Escuchar sus necesidades y expectativas y proporcionar soluciones que cumplan o superen esas expectativas\n- Comunicarse y colaborar con ellos de manera efectiva y eficiente a lo largo del proyecto\n- Proporcionar precios transparentes y competitivos que se ajusten a su presupuesto y requisitos\n- Proporcionar estimaciones y propuestas oportunas y precisas para sus proyectos\n- Proporcionar actualizaciones e informes regulares y claros sobre el progreso y estado de sus proyectos\n- Proporcionar soluciones de T.I de alta calidad y profesionales que les brinden una ventaja competitiva\n- Proporcionar soporte y mantenimiento de T.I continuos y confiables para sus soluciones\n- Proporcionar comentarios y consejos valiosos y honestos de T.I para sus soluciones",
+          "question": "¿Cómo garantiza TechSolve la satisfacción y fidelidad de sus clientes?"
+        },
+        {
+          "answer": "El proceso de trabajar con TechSolve en un proyecto es el siguiente:\n- Te pones en contacto con TechSolve visitando su sitio web, llamando al número de teléfono, enviando un correo electrónico o siguiéndolos en redes sociales\n- Discutes los detalles y requisitos de tu proyecto con TechSolve y les proporcionas toda la información y documentos relevantes\n- TechSolve analiza tu proyecto y te proporciona una cotización y propuesta gratuita y sin compromiso en un plazo de 24 horas\n- Revisas la cotización y propuesta y aceptas o negocias con TechSolve\n- TechSolve asigna un gerente de proyecto dedicado y un equipo de expertos en TI para tu proyecto\n- TechSolve comienza a trabajar en tu proyecto de acuerdo con el alcance, plazo y presupuesto acordados\n- TechSolve se comunica y colabora contigo durante todo el proyecto y te mantiene actualizado sobre el progreso y estado de tu proyecto\n- TechSolve entrega el producto final y garantiza tu satisfacción y aprobación\n- TechSolve proporciona soporte y mantenimiento de TI continuo y confiable para tu producto",
+          "question": "¿Cuál es el proceso de trabajar con TechSolve en un proyecto?"
+        },
+        {
+          "answer": "Los expertos en TI de TechSolve son altamente calificados y experimentados en sus respectivas áreas. Ellos poseen:\n- Grados, certificaciones y capacitaciones relevantes en TI de instituciones y organizaciones reconocidas\n- Habilidades, conocimientos y experiencia comprobada en diversas áreas y tecnologías de TI\n- Un extenso portafolio, testimonios y referencias de clientes anteriores y actuales\n- Actitud, entusiasmo y creatividad apasionados por la TI\n- Ética profesional, valores y estándares de trabajo en TI",
+          "question": "¿Cuáles son las credenciales y calificaciones de los expertos en TI de TechSolve?"
+        },
+        {
+          "answer": "El lema de TechSolve es: Resolvemos tus problemas tecnológicos con facilidad y eficiencia.",
+          "question": "¿Cuál es el lema de TechSolve?"
+        },
+        {
+          "answer": "La misión de TechSolve es: Brindar soluciones de TI de alta calidad, accesibles y personalizadas para empresas y particulares.",
+          "question": "¿Cuál es la misión de TechSolve?"
+        },
+        {
+          "answer": "Los valores de TechSolve son: Satisfacción del cliente, innovación, calidad, integridad y trabajo en equipo.",
+          "question": "¿Cuáles son los valores de TechSolve?"
+        },
+        {
+          "answer": "Los servicios de TechSolve son: Desarrollo web, desarrollo de software, desarrollo de aplicaciones móviles, computación en la nube, seguridad cibernética y consultoría en TI.",
+          "question": "¿Cuáles son los servicios de TechSolve?"
+        },
+        {
+          "answer": "El logotipo de TechSolve es una letra T estilizada en azul y verde con una lámpara en su interior.",
+          "question": "¿Cuál es el logotipo de TechSolve?"
+        },
+        {
+          "answer": "Puedes obtener una cotización gratuita de TechSolve completando un formulario sencillo en su sitio web, llamando al número de teléfono, enviando un correo electrónico o chateando con ellos en línea.",
+          "question": "¿Cómo puedo obtener una cotización gratuita de TechSolve?"
+        },
+        {
+          "answer": "La duración de un proyecto depende del tipo, alcance y complejidad del mismo. TechSolve te proporcionará una estimación realista y precisa del tiempo y costo del proyecto antes de comenzar el trabajo.",
+          "question": "¿Cuánto tiempo tarda TechSolve en completar un proyecto?"
+        },
+        {
+          "answer": "TechSolve se comunica y colabora con sus clientes utilizando herramientas y plataformas en línea, como correo electrónico, teléfono, chat, videollamada, redes sociales, Trello, Jira, Slack, Zoom, Google Meet, etc.",
+          "question": "¿Cómo se comunica y colabora TechSolve con sus clientes?"
+        },
+        {
+          "answer": "TechSolve garantiza la satisfacción y fidelidad de sus clientes escuchando sus necesidades y expectativas, entregando soluciones que cumplan o superen esas expectativas, proporcionando precios transparentes y competitivos, manteniéndolos actualizados sobre el progreso y estado de sus proyectos, brindando soluciones de TI de alta calidad y profesionales, y proporcionando soporte y mantenimiento de TI continuo y confiable.",
+          "question": "¿Cómo garantiza TechSolve la satisfacción y fidelidad de sus clientes?"
+        },
+        {
+          "answer": "Los clientes de TechSolve están muy satisfechos e impresionados con la calidad y rendimiento de sus soluciones de TI. Ellos elogian a TechSolve por su profesionalismo, capacidad de respuesta, creatividad y experiencia. Puedes leer algunos de estos testimonios en el sitio web de TechSolve.",
+          "question": "¿Cuáles son los testimonios de los clientes de TechSolve?"
+        },
+        {
+          "answer": "Al elegir a TechSolve para el desarrollo web, puedes disfrutar de los beneficios de tener un sitio web receptivo, fácil de usar y seguro que funciona bien en todos los dispositivos y navegadores, refleja la identidad, visión y valores de tu marca, atrae, involucra y convierte a tu público objetivo, está optimizado para los motores de búsqueda, velocidad y rendimiento, es fácil de actualizar, mantener y escalar, está alojado en un servidor confiable, rápido y seguro, está registrado con un nombre de dominio único y memorable, e está integrado con tus redes sociales, correos electrónicos, análisis, pagos, etc.",
+          "question": "¿Cuáles son los beneficios de elegir a TechSolve para el desarrollo web?"
+        },
+        {
+          "answer": "Al elegir a TechSolve para el desarrollo de software, puedes disfrutar de los beneficios de tener una aplicación de software personalizada que satisfaga tus necesidades y preferencias específicas, sea compatible con tus sistemas y plataformas existentes, sea escalable, confiable y seguro, sea probada, depurada y optimizada para calidad y rendimiento, sea implementada, mantenida y respaldada por TechSolve, y sea documentada, personalizada y mejorada por TechSolve.",
+          "question": "¿Cuáles son los beneficios de elegir a TechSolve para el desarrollo de software?"
+        },
+        {
+          "answer": "Al elegir a TechSolve para el desarrollo de aplicaciones móviles, puedes disfrutar de los beneficios de tener una aplicación móvil nativa o multiplataforma que funcione bien en dispositivos iOS y Android, tenga un diseño impresionante, intuitivo y fácil de usar, tenga una funcionalidad rica, interactiva y atractiva, esté optimizada para velocidad, rendimiento y duración de la batería, esté integrada con tus servicios web, en la nube y otros, sea probada, depurada y protegida contra errores y fallas, sea implementada, mantenida y respaldada por TechSolve, y sea documentada, personalizada y mejorada por TechSolve.",
+          "question": "¿Cuáles son los beneficios de elegir a TechSolve para el desarrollo de aplicaciones móviles?"
+        },
+        {
+          "answer": "Al elegir a TechSolve para la computación en la nube, puedes disfrutar de los beneficios de tener una infraestructura y servicio en la nube que satisfaga tus necesidades y objetivos comerciales, sea flexible, escalable y económica, sea confiable, disponible y resistente, sea segura, compatible y protegida, sea administrada, optimizada y automatizada por TechSolve, sea monitoreada, auditada y respaldada por TechSolve, y sea respaldada, consultada y asesorada por TechSolve.",
+          "question": "¿Cuáles son los beneficios de elegir a TechSolve para la computación en la nube?"
+        },
+        {
+          "answer": "Al elegir a TechSolve para la seguridad cibernética, puedes disfrutar de los beneficios de tener una solución de seguridad cibernética que proteja tus datos y sistemas contra amenazas y ataques cibernéticos, detecte y responda a incidentes y violaciones cibernéticas, recupere y restaure tus datos y sistemas de daños cibernéticos, prevenga y mitigue riesgos y vulnerabilidades cibernéticas, cumpla con las leyes y regulaciones pertinentes, sea evaluada, probada y auditada por TechSolve, y sea respaldada, consultada y asesorada por TechSolve.",
+          "question": "¿Cuáles son los beneficios de elegir a TechSolve para la seguridad cibernética?"
+        },
+        {
+          "answer": "Al elegir a TechSolve para la consultoría en TI, puedes disfrutar de los beneficios de tener una estrategia y plan de TI alineados con la visión y misión de tu empresa, un análisis y diseño de TI que identifique y resuelva los problemas y desafíos de tu negocio, una implementación y evaluación de TI que entregue y mida las soluciones y resultados de tu negocio, una auditoría y revisión de TI que garantice y mejore la calidad y rendimiento de TI, una recomendación y mejora de TI que optimice e innove los procesos y prácticas de TI, una transformación y gobierno de TI que cambie y controle el entorno y la cultura de TI de tu empresa, y un soporte y capacitación de TI que asista y eduque a tu equipo y usuarios de TI.",
+          "question": "¿Cuáles son los beneficios de elegir a TechSolve para la consultoría en TI?"
+        },
+        {
+          "answer": "TechSolve atiende a una amplia variedad de industrias, como educación, salud, finanzas, retail, comercio electrónico, hotelería, turismo, entretenimiento, medios de comunicación, juegos, deportes, bienes raíces, construcción, manufactura, logística, transporte, energía, servicios públicos, agricultura, medio ambiente, gobierno, sin fines de lucro, etc.",
+          "question": "¿Cuáles son las industrias atendidas por TechSolve?"
+        },
+        {
+          "answer": "TechSolve atiende a empresas de todos los tamaños, desde pequeñas y medianas empresas hasta grandes corporaciones. TechSolve también atiende a individuos, freelancers, emprendedores, startups, etc.",
+          "question": "¿Cuáles son los tamaños de empresas atendidos por TechSolve?"
+        },
+        {
+          "answer": "TechSolve atiende a empresas de todo el mundo, sin importar su ubicación, huso horario, idioma, cultura, etc. TechSolve utiliza herramientas y plataformas en línea para comunicarse y colaborar de manera efectiva y eficiente con sus clientes.",
+          "question": "¿Cuáles son las ubicaciones de las empresas atendidas por TechSolve?"
+        },
+        {
+          "answer": "Las tarifas de TechSolve varían según el tipo, alcance y complejidad del proyecto. TechSolve ofrece precios competitivos y transparentes que se ajustan a tu presupuesto y requisitos.",
+          "question": "¿Cuáles son las tarifas de TechSolve?"
+        }
+      ],
+      "pt-br": [
+        null,
+        {
+          "answer": "A TechSolve é uma empresa de T.I que oferece serviços como desenvolvimento web, desenvolvimento de software, desenvolvimento de aplicativos móveis, computação em nuvem, segurança cibernética e consultoria em T.I.",
+          "question": "O que é a TechSolve?"
+        },
+        {
+          "answer": "A missão da TechSolve é fornecer soluções de T.I de alta qualidade, acessíveis e personalizadas para empresas e indivíduos.",
+          "question": "Qual é a missão da TechSolve?"
+        },
+        {
+          "answer": "A TechSolve valoriza a satisfação do cliente, inovação, qualidade, integridade e trabalho em equipe.",
+          "question": "Quais são os valores da TechSolve?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve, você pode desfrutar dos benefícios de ter um parceiro de T.I confiável, experiente e profissional que pode ajudá-lo a resolver seus problemas tecnológicos com facilidade e eficiência. Você também pode economizar tempo, dinheiro e recursos terceirizando suas necessidades de T.I para a TechSolve.",
+          "question": "Quais são os benefícios de escolher a TechSolve?"
+        },
+        {
+          "answer": "Você pode entrar em contato com a TechSolve visitando o site deles, ligando para o número de telefone, enviando um e-mail ou seguindo-os nas redes sociais.",
+          "question": "Como posso entrar em contato com a TechSolve?"
+        },
+        {
+          "answer": "As tarifas da TechSolve variam dependendo do tipo, escopo e complexidade do projeto. A TechSolve oferece preços competitivos e transparentes que se adequam ao seu orçamento e requisitos.",
+          "question": "Quais são as tarifas da TechSolve?"
+        },
+        {
+          "answer": "Os clientes da TechSolve estão muito satisfeitos e impressionados com a qualidade e desempenho das soluções de T.I. Eles elogiam a TechSolve por sua profissionalismo, responsividade, criatividade e expertise. Você pode ler alguns dos depoimentos no site da TechSolve.",
+          "question": "Quais são os depoimentos dos clientes da TechSolve?"
+        },
+        {
+          "answer": "A TechSolve utiliza as tecnologias e ferramentas mais recentes para criar soluções de ponta que lhe dão uma vantagem competitiva. Algumas das tecnologias e ferramentas que a TechSolve utiliza são HTML, CSS, JavaScript, React, Angular, Node.js, Python, Django, C#, .NET, Xamarin, Swift, Kotlin, Firebase, AWS, Azure, Google Cloud, MongoDB, MySQL, PostgreSQL, SQL Server, Shopify, Laravel, Bootstrap, Material UI, Ant Design, Tailwind CSS, Git, GitHub, Visual Studio Code, Android Studio, Xcode, Sketch, Figma, Jira, Teams, Office 365, etc.",
+          "question": "Quais são as tecnologias e ferramentas que a TechSolve utiliza?"
+        },
+        {
+          "answer": "A duração de um projeto depende do tipo, escopo e complexidade do projeto. A TechSolve fornecerá uma estimativa realista e precisa do tempo e custo do projeto antes de iniciar o trabalho. A TechSolve também manterá você atualizado sobre o progresso e status do projeto durante todo o processo de desenvolvimento.",
+          "question": "Quanto tempo leva para a TechSolve concluir um projeto?"
+        },
+        {
+          "answer": "Você pode obter um orçamento gratuito e sem compromisso da TechSolve preenchendo um formulário simples em seu site. Você também pode ligar, enviar um e-mail ou conversar com a TechSolve para discutir os detalhes e requisitos do seu projeto. A TechSolve entrará em contato com você com uma proposta personalizada e detalhada dentro de 24 horas.",
+          "question": "Como posso obter um orçamento da TechSolve?"
+        },
+        {
+          "answer": "A TechSolve oferece serviços de desenvolvimento web, como design de sites, desenvolvimento de sites, manutenção de sites, otimização de sites, segurança de sites, hospedagem de sites, registro de domínio, desenvolvimento de comércio eletrônico, desenvolvimento de sistemas de gerenciamento de conteúdo (CMS), desenvolvimento de aplicativos web, desenvolvimento de aplicativos web progressivos (PWA), etc.",
+          "question": "Quais são os tipos de serviços de desenvolvimento web que a TechSolve oferece?"
+        },
+        {
+          "answer": "A TechSolve oferece serviços de desenvolvimento de software, como desenvolvimento de aplicativos desktop, desenvolvimento de aplicativos web, desenvolvimento de aplicativos móveis, teste de software, depuração de software, integração de software, implantação de software, manutenção de software, documentação de software, personalização de software, migração de software, modernização de software, aprimoramento de software, suporte de software, etc.",
+          "question": "Quais são os tipos de serviços de desenvolvimento de software que a TechSolve oferece?"
+        },
+        {
+          "answer": "A TechSolve oferece serviços de desenvolvimento de aplicativos móveis, como desenvolvimento de aplicativos nativos, desenvolvimento de aplicativos multiplataforma, desenvolvimento de aplicativos híbridos, design de aplicativos móveis, teste de aplicativos móveis, depuração de aplicativos móveis, integração de aplicativos móveis, implantação de aplicativos móveis, manutenção de aplicativos móveis, documentação de aplicativos móveis, personalização de aplicativos móveis, migração de aplicativos móveis, modernização de aplicativos móveis, aprimoramento de aplicativos móveis, suporte de aplicativos móveis, etc.",
+          "question": "Quais são os tipos de serviços de desenvolvimento de aplicativos móveis que a TechSolve oferece?"
+        },
+        {
+          "answer": "A TechSolve oferece serviços de computação em nuvem, como migração para a nuvem, gerenciamento de nuvem, otimização de nuvem, segurança em nuvem, backup em nuvem, recuperação de desastres em nuvem, monitoramento de nuvem, automação de nuvem, orquestração de nuvem, dimensionamento de nuvem, consultoria em nuvem, arquitetura em nuvem, desenvolvimento em nuvem, implantação em nuvem, manutenção em nuvem, suporte em nuvem, etc.",
+          "question": "Quais são os tipos de serviços de computação em nuvem que a TechSolve oferece?"
+        },
+        {
+          "answer": "A TechSolve oferece serviços de segurança cibernética, como avaliação de vulnerabilidades, teste de penetração, hacking ético, análise de malware, remoção de malware, proteção contra ransomware, recuperação de ransomware, prevenção de phishing, detecção de phishing, resposta a phishing, instalação de firewall, configuração de firewall, gerenciamento de firewall, instalação de antivírus, configuração de antivírus, gerenciamento de antivírus, criptografia, descriptografia, proteção de dados, recuperação de dados, prevenção de violação de dados, detecção de violação de dados, resposta a violação de dados, gerenciamento de identidade e acesso, autenticação, autorização, gerenciamento de senhas, autenticação de vários fatores, login único, autenticação biométrica, segurança de rede, monitoramento de rede, auditoria de rede, fortalecimento de rede, segmentação de rede, isolamento de rede, firewall de rede, antivírus de rede, criptografia de rede, descriptografia de rede, proteção de rede, recuperação de rede, segurança da web, varredura da web, filtragem da web, bloqueio da web, criptografia da web, descriptografia da web, proteção da web, recuperação da web, segurança de e-mail, varredura de e-mail, filtragem de e-mail, bloqueio de e-mail, criptografia de e-mail, descriptografia de e-mail, proteção de e-mail, recuperação de e-mail, etc.",
+          "question": "Quais são os tipos de serviços de segurança cibernética que a TechSolve oferece?"
+        },
+        {
+          "answer": "A TechSolve oferece serviços de consultoria em T.I, como estratégia de T.I, planejamento de T.I, análise de T.I, design de T.I, implementação de T.I, avaliação de T.I, auditoria de T.I, revisão de T.I, recomendação de T.I, melhoria de T.I, otimização de T.I, inovação de T.I, transformação de T.I, governança de T.I, conformidade de T.I, gerenciamento de riscos de T.I, gerenciamento de projetos de T.I, gerenciamento de mudanças de T.I, gerenciamento de qualidade de T.I, gerenciamento de desempenho de T.I, gerenciamento de custos de T.I, gerenciamento de recursos de T.I, gerenciamento de comunicação de T.I, gerenciamento de partes interessadas de T.I, gerenciamento de conhecimento de T.I, treinamento de T.I, coaching de T.I, mentoria de T.I, suporte de T.I, etc.",
+          "question": "Quais são os tipos de serviços de consultoria em T.I que a TechSolve oferece?"
+        },
+        {
+          "answer": "A TechSolve atende a uma ampla gama de indústrias, como educação, saúde, finanças, varejo, e-commerce, hotelaria, turismo, entretenimento, mídia, jogos, esportes, imóveis, construção, manufatura, logística, transporte, energia, serviços públicos, agricultura, meio ambiente, governo, sem fins lucrativos, etc.",
+          "question": "Quais são as indústrias que a TechSolve atende?"
+        },
+        {
+          "answer": "A TechSolve atende empresas de todos os tamanhos, desde pequenas até médias e grandes empresas. A TechSolve também atende indivíduos, freelancers, empreendedores, startups, etc.",
+          "question": "Quais são os tamanhos das empresas que a TechSolve atende?"
+        },
+        {
+          "answer": "A TechSolve atende empresas de todo o mundo, independentemente de sua localização, fuso horário, idioma, cultura, etc. A TechSolve utiliza ferramentas e plataformas online para se comunicar e colaborar com seus clientes de forma eficaz e eficiente.",
+          "question": "Quais são as localizações das empresas que a TechSolve atende?"
+        },
+        {
+          "answer": "As vantagens dos serviços de desenvolvimento web da TechSolve são:\n- Você pode ter um site responsivo, amigável ao usuário e seguro que funciona bem em todos os dispositivos e navegadores\n- Você pode ter um site que reflita a identidade, visão e valores da sua marca\n- Você pode ter um site que atraia, envolva e converta seu público-alvo\n- Você pode ter um site otimizado para mecanismos de busca, velocidade e desempenho\n- Você pode ter um site que seja fácil de atualizar, manter e dimensionar\n- Você pode ter um site hospedado em um servidor confiável, rápido e seguro\n- Você pode ter um site registrado com um nome de domínio exclusivo e memorável\n- Você pode ter um site integrado com suas redes sociais, e-mail, análises, pagamento, etc.",
+          "question": "Quais são as vantagens dos serviços de desenvolvimento web da TechSolve?"
+        },
+        {
+          "answer": "As vantagens dos serviços de desenvolvimento de software da TechSolve são:\n- Você pode ter um aplicativo de software personalizado que atenda às suas necessidades e preferências específicas\n- Você pode ter um aplicativo de software compatível com seus sistemas e plataformas existentes\n- Você pode ter um aplicativo de software escalável, confiável e seguro\n- Você pode ter um aplicativo de software testado, depurado e otimizado para qualidade e desempenho\n- Você pode ter um aplicativo de software implantado, mantido e suportado pela TechSolve\n- Você pode ter um aplicativo de software documentado, personalizado e aprimorado pela TechSolve",
+          "question": "Quais são as vantagens dos serviços de desenvolvimento de software da TechSolve?"
+        },
+        {
+          "answer": "As vantagens dos serviços de desenvolvimento de aplicativos móveis da TechSolve são:\n- Você pode ter um aplicativo móvel nativo ou multiplataforma que funcione bem em dispositivos iOS e Android\n- Você pode ter um aplicativo móvel com um design impressionante, intuitivo e amigável ao usuário\n- Você pode ter um aplicativo móvel com uma funcionalidade rica, interativa e envolvente\n- Você pode ter um aplicativo móvel otimizado para velocidade, desempenho e vida útil da bateria\n- Você pode ter um aplicativo móvel integrado com seus serviços web, em nuvem e outros\n- Você pode ter um aplicativo móvel testado, depurado e protegido contra bugs e erros\n- Você pode ter um aplicativo móvel implantado, mantido e suportado pela TechSolve\n- Você pode ter um aplicativo móvel documentado, personalizado e aprimorado pela TechSolve",
+          "question": "Quais são as vantagens dos serviços de desenvolvimento de aplicativos móveis da TechSolve?"
+        },
+        {
+          "answer": "As vantagens dos serviços de computação em nuvem da TechSolve são:\n- Você pode ter uma infraestrutura e serviço em nuvem que atenda às suas necessidades e objetivos comerciais\n- Você pode ter uma infraestrutura e serviço em nuvem flexível, escalável e econômico\n- Você pode ter uma infraestrutura e serviço em nuvem confiável, disponível e resiliente\n- Você pode ter uma infraestrutura e serviço em nuvem seguro, em conformidade e protegido\n- Você pode ter uma infraestrutura e serviço em nuvem gerenciado, otimizado e automatizado pela TechSolve\n- Você pode ter uma infraestrutura e serviço em nuvem monitorado, auditado e com backup pela TechSolve\n- Você pode ter uma infraestrutura e serviço em nuvem suportado, consultado e assessorado pela TechSolve",
+          "question": "Quais são as vantagens dos serviços de computação em nuvem da TechSolve?"
+        },
+        {
+          "answer": "As vantagens dos serviços de segurança cibernética da TechSolve são:\n- Você pode ter uma solução de segurança cibernética que protege seus dados e sistemas contra ameaças e ataques cibernéticos\n- Você pode ter uma solução de segurança cibernética que detecta e responde a incidentes e violações cibernéticas\n- Você pode ter uma solução de segurança cibernética que recupera e restaura seus dados e sistemas de danos cibernéticos\n- Você pode ter uma solução de segurança cibernética que previne e mitiga riscos e vulnerabilidades cibernéticas\n- Você pode ter uma solução de segurança cibernética que está em conformidade com as leis e regulamentos relevantes\n- Você pode ter uma solução de segurança cibernética avaliada, testada e auditada pela TechSolve\n- Você pode ter uma solução de segurança cibernética suportada, consultada e assessorada pela TechSolve",
+          "question": "Quais são as vantagens dos serviços de segurança cibernética da TechSolve?"
+        },
+        {
+          "answer": "As vantagens dos serviços de consultoria em T.I da TechSolve são:\n- Você pode ter uma estratégia e plano de T.I que estejam alinhados com a visão e missão da sua empresa\n- Você pode ter uma análise e design de T.I que identifiquem e resolvam os problemas e desafios da sua empresa\n- Você pode ter uma implementação e avaliação de T.I que entreguem e meçam as soluções e resultados da sua empresa\n- Você pode ter uma auditoria e revisão de T.I que garantam e melhorem a qualidade e o desempenho da sua T.I\n- Você pode ter uma recomendação e melhoria de T.I que otimizem e inovem os processos e práticas de T.I da sua empresa\n- Você pode ter uma transformação e governança de T.I que mudem e controlem o ambiente e a cultura de T.I da sua empresa\n- Você pode ter um suporte e treinamento de T.I que auxiliem e eduquem sua equipe e usuários de T.I",
+          "question": "Quais são as vantagens dos serviços de consultoria em T.I da TechSolve?"
+        },
+        {
+          "answer": "A TechSolve garante a qualidade e o desempenho de suas soluções de T.I por meio de:\n- Seguir as melhores práticas e metodologias de T.I em seu trabalho e produtos\n- Utilizar as tecnologias e ferramentas mais recentes de T.I em seu trabalho e produtos\n- Aplicar as melhores práticas e técnicas de T.I em seu trabalho e produtos\n- Testar, depurar e otimizar seu trabalho e produtos para qualidade e desempenho\n- Monitorar, auditar e revisar seu trabalho e produtos para qualidade e desempenho\n- Melhorar, aprimorar e atualizar seu trabalho e produtos para qualidade e desempenho",
+          "question": "Como a TechSolve garante a qualidade e o desempenho de suas soluções de T.I?"
+        },
+        {
+          "answer": "A TechSolve garante a segurança e proteção de suas soluções de T.I por meio de:\n- Seguir as melhores práticas e políticas de segurança de T.I em seu trabalho e produtos\n- Utilizar as melhores tecnologias e ferramentas de segurança de T.I em seu trabalho e produtos\n- Aplicar as melhores práticas e técnicas de segurança de T.I em seu trabalho e produtos\n- Criptografar, descriptografar e proteger seu trabalho e produtos contra acesso e modificação não autorizados\n- Escanear, filtrar e bloquear seu trabalho e produtos contra ataques e ameaças maliciosas\n- Fazer backup, recuperar e restaurar seu trabalho e produtos contra danos e perdas acidentais ou intencionais",
+          "question": "Como a TechSolve garante a segurança e proteção de suas soluções de T.I?"
+        },
+        {
+          "answer": "A TechSolve garante a satisfação e fidelidade de seus clientes por meio de:\n- Ouvir suas necessidades e expectativas e fornecer soluções que atendam ou superem essas expectativas\n- Comunicar e colaborar com eles de forma eficaz e eficiente ao longo do projeto\n- Fornecer preços transparentes e competitivos que se adequem ao seu orçamento e requisitos\n- Fornecer estimativas e propostas pontuais e precisas para seus projetos\n- Fornecer atualizações e relatórios regulares e claros sobre o progresso e status de seus projetos\n- Fornecer soluções de T.I de alta qualidade e profissionais que lhes proporcionem uma vantagem competitiva\n- Fornecer suporte e manutenção de T.I contínuos e confiáveis para suas soluções\n- Fornecer feedback e conselhos valiosos e honestos de T.I para suas soluções",
+          "question": "Como a TechSolve garante a satisfação e fidelidade de seus clientes?"
+        },
+        {
+          "answer": "O processo de trabalhar com a TechSolve em um projeto é o seguinte:\n- Você entra em contato com a TechSolve visitando o site deles, ligando para o número de telefone, enviando um e-mail ou seguindo-os nas redes sociais\n- Você discute os detalhes e requisitos do seu projeto com a TechSolve e fornece a eles todas as informações e documentos relevantes\n- A TechSolve analisa o seu projeto e fornece a você uma cotação e proposta gratuita e sem compromisso em até 24 horas\n- Você revisa a cotação e proposta e aceita ou negocia com a TechSolve\n- A TechSolve designa um gerente de projeto dedicado e uma equipe de especialistas em TI para o seu projeto\n- A TechSolve começa a trabalhar no seu projeto de acordo com o escopo, prazo e orçamento acordados\n- A TechSolve se comunica e colabora com você durante todo o projeto e mantém você atualizado sobre o progresso e status do seu projeto\n- A TechSolve entrega o produto final para você e garante a sua satisfação e aprovação\n- A TechSolve fornece suporte e manutenção de TI contínuos e confiáveis para o seu produto",
+          "question": "Qual é o processo de trabalhar com a TechSolve em um projeto?"
+        },
+        {
+          "answer": "Os especialistas em TI da TechSolve são altamente qualificados e experientes em suas respectivas áreas. Eles possuem:\n- Graduações, certificações e treinamentos relevantes em TI de instituições e organizações conceituadas\n- Habilidades, conhecimentos e expertise comprovados em várias áreas e tecnologias de TI\n- Portfólio, depoimentos e referências extensos de clientes anteriores e atuais\n- Atitude, entusiasmo e criatividade apaixonados em relação à TI\n- Ética profissional, valores e padrões de trabalho em TI",
+          "question": "Quais são as credenciais e qualificações dos especialistas em TI da TechSolve?"
+        },
+        {
+          "answer": "O slogan da TechSolve é: Resolvemos seus problemas de tecnologia com facilidade e eficiência.",
+          "question": "Qual é o slogan da TechSolve?"
+        },
+        {
+          "answer": "A missão da TechSolve é: Fornecer soluções de TI de alta qualidade, acessíveis e personalizadas para empresas e indivíduos.",
+          "question": "Qual é a missão da TechSolve?"
+        },
+        {
+          "answer": "Os valores da TechSolve são: Satisfação do cliente, inovação, qualidade, integridade e trabalho em equipe.",
+          "question": "Quais são os valores da TechSolve?"
+        },
+        {
+          "answer": "Os serviços da TechSolve são: Desenvolvimento web, desenvolvimento de software, desenvolvimento de aplicativos móveis, computação em nuvem, segurança cibernética e consultoria em TI.",
+          "question": "Quais são os serviços da TechSolve?"
+        },
+        {
+          "answer": "O logotipo da TechSolve é uma letra T estilizada em azul e verde com uma lâmpada dentro.",
+          "question": "Qual é o logotipo da TechSolve?"
+        },
+        {
+          "answer": "Você pode obter uma cotação gratuita da TechSolve preenchendo um formulário simples em seu site, ligando para o número de telefone, enviando um e-mail ou conversando com eles online.",
+          "question": "Como posso obter uma cotação gratuita da TechSolve?"
+        },
+        {
+          "answer": "A duração de um projeto depende do tipo, escopo e complexidade do projeto. A TechSolve fornecerá a você uma estimativa realista e precisa do tempo e custo do projeto antes de iniciar o trabalho.",
+          "question": "Quanto tempo a TechSolve leva para concluir um projeto?"
+        },
+        {
+          "answer": "A TechSolve se comunica e colabora com seus clientes usando ferramentas e plataformas online, como e-mail, telefone, chat, videochamada, redes sociais, Trello, Jira, Slack, Zoom, Google Meet, etc.",
+          "question": "Como a TechSolve se comunica e colabora com seus clientes?"
+        },
+        {
+          "answer": "A TechSolve garante a satisfação e fidelidade de seus clientes ouvindo suas necessidades e expectativas, entregando soluções que atendam ou excedam essas expectativas, fornecendo preços transparentes e competitivos, mantendo-os atualizados sobre o progresso e status de seus projetos, fornecendo soluções de TI de alta qualidade e profissionais e fornecendo suporte e manutenção de TI contínuos e confiáveis.",
+          "question": "Como a TechSolve garante a satisfação e fidelidade de seus clientes?"
+        },
+        {
+          "answer": "Os clientes da TechSolve estão muito satisfeitos e impressionados com a qualidade e desempenho de suas soluções de TI. Eles elogiam a TechSolve por sua profissionalidade, responsividade, criatividade e expertise. Você pode ler alguns desses depoimentos no site da TechSolve.",
+          "question": "Quais são os depoimentos dos clientes da TechSolve?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve para desenvolvimento web, você pode desfrutar dos benefícios de ter um site responsivo, fácil de usar e seguro que funciona bem em todos os dispositivos e navegadores, reflete a identidade, visão e valores da sua marca, atrai, envolve e converte seu público-alvo, é otimizado para mecanismos de busca, velocidade e desempenho, é fácil de atualizar, manter e dimensionar, é hospedado em um servidor confiável, rápido e seguro, é registrado com um nome de domínio único e memorável e é integrado com suas redes sociais, e-mails, análises, pagamentos, etc.",
+          "question": "Quais são os benefícios de escolher a TechSolve para desenvolvimento web?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve para desenvolvimento de software, você pode desfrutar dos benefícios de ter um aplicativo de software personalizado que atenda às suas necessidades e preferências específicas, seja compatível com seus sistemas e plataformas existentes, seja escalável, confiável e seguro, seja testado, depurado e otimizado para qualidade e desempenho, seja implantado, mantido e suportado pela TechSolve e seja documentado, personalizado e aprimorado pela TechSolve.",
+          "question": "Quais são os benefícios de escolher a TechSolve para desenvolvimento de software?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve para desenvolvimento de aplicativos móveis, você pode desfrutar dos benefícios de ter um aplicativo móvel nativo ou multiplataforma que funcione bem em dispositivos iOS e Android, tenha um design impressionante, intuitivo e fácil de usar, tenha uma funcionalidade rica, interativa e envolvente, seja otimizado para velocidade, desempenho e vida útil da bateria, seja integrado com seus serviços web, em nuvem e outros, seja testado, depurado e protegido contra bugs e erros, seja implantado, mantido e suportado pela TechSolve e seja documentado, personalizado e aprimorado pela TechSolve.",
+          "question": "Quais são os benefícios de escolher a TechSolve para desenvolvimento de aplicativos móveis?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve para computação em nuvem, você pode desfrutar dos benefícios de ter uma infraestrutura e serviço em nuvem que atenda às suas necessidades e objetivos de negócios, seja flexível, escalável e econômico, seja confiável, disponível e resiliente, seja seguro, compatível e protegido, seja gerenciado, otimizado e automatizado pela TechSolve, seja monitorado, auditado e backup pela TechSolve e seja suportado, consultado e aconselhado pela TechSolve.",
+          "question": "Quais são os benefícios de escolher a TechSolve para computação em nuvem?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve para segurança cibernética, você pode desfrutar dos benefícios de ter uma solução de segurança cibernética que protege seus dados e sistemas contra ameaças e ataques cibernéticos, detecta e responde a incidentes e violações cibernéticas, recupera e restaura seus dados e sistemas de danos cibernéticos, previne e mitiga riscos e vulnerabilidades cibernéticas, está em conformidade com as leis e regulamentos relevantes, é avaliado, testado e auditado pela TechSolve e é suportado, consultado e aconselhado pela TechSolve.",
+          "question": "Quais são os benefícios de escolher a TechSolve para segurança cibernética?"
+        },
+        {
+          "answer": "Ao escolher a TechSolve para consultoria em TI, você pode desfrutar dos benefícios de ter uma estratégia e plano de TI alinhados com a visão e missão da sua empresa, uma análise e design de TI que identifica e resolve os problemas e desafios do seu negócio, uma implementação e avaliação de TI que entrega e mede as soluções e resultados do seu negócio, uma auditoria e revisão de TI que garante e melhora a qualidade e desempenho da TI, uma recomendação e melhoria de TI que otimiza e inova os processos e práticas de TI, uma transformação e governança de TI que muda e controla o ambiente e a cultura de TI da sua empresa e um suporte e treinamento de TI que auxilia e educa sua equipe e usuários de TI.",
+          "question": "Quais são os benefícios de escolher a TechSolve para consultoria em TI?"
+        },
+        {
+          "answer": "A TechSolve atende a uma ampla variedade de indústrias, como educação, saúde, finanças, varejo, comércio eletrônico, hotelaria, turismo, entretenimento, mídia, jogos, esportes, imóveis, construção, manufatura, logística, transporte, energia, serviços públicos, agricultura, meio ambiente, governo, sem fins lucrativos, etc.",
+          "question": "Quais são as indústrias atendidas pela TechSolve?"
+        },
+        {
+          "answer": "A TechSolve atende a empresas de todos os tamanhos, desde pequenas e médias empresas até grandes corporações. A TechSolve também atende a indivíduos, freelancers, empreendedores, startups, etc.",
+          "question": "Quais são os tamanhos das empresas atendidas pela TechSolve?"
+        },
+        {
+          "answer": "A TechSolve atende a empresas de todo o mundo, independentemente de sua localização, fuso horário, idioma, cultura, etc. A TechSolve utiliza ferramentas e plataformas online para se comunicar e colaborar com seus clientes de forma eficaz e eficiente.",
+          "question": "Quais são as localizações das empresas atendidas pela TechSolve?"
+        },
+        {
+          "answer": "As tarifas da TechSolve variam dependendo do tipo, escopo e complexidade do projeto. A TechSolve oferece preços competitivos e transparentes que se adequam ao seu orçamento e requisitos.",
+          "question": "Quais são as tarifas da TechSolve?"
+        }
+      ]
+    },
+    "finances": {
+      "en-us": [
+        null,
+        {
+          "answer": "The revenue of TechSolve in Q1 of 2022 was $1.2 million, which was a 20% increase from Q4 of 2021.",
+          "question": "What was the revenue of TechSolve in Q1 of 2022?"
+        },
+        {
+          "answer": "The expenses of TechSolve in Q1 of 2022 were $800,000, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in Q1 of 2022?"
+        },
+        {
+          "answer": "The profit of TechSolve in Q1 of 2022 was $400,000, which was a 25% increase from Q4 of 2021.",
+          "question": "What was the profit of TechSolve in Q1 of 2022?"
+        },
+        {
+          "answer": "The revenue of TechSolve in Q2 of 2022 was $1.5 million, which was a 25% increase from Q1 of 2022.",
+          "question": "What was the revenue of TechSolve in Q2 of 2022?"
+        },
+        {
+          "answer": "The expenses of TechSolve in Q2 of 2022 were $900,000, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in Q2 of 2022?"
+        },
+        {
+          "answer": "The profit of TechSolve in Q2 of 2022 was $600,000, which was a 50% increase from Q1 of 2022.",
+          "question": "What was the profit of TechSolve in Q2 of 2022?"
+        },
+        {
+          "answer": "The revenue of TechSolve in Q3 of 2022 was $1.8 million, which was a 20% increase from Q2 of 2022.",
+          "question": "What was the revenue of TechSolve in Q3 of 2022?"
+        },
+        {
+          "answer": "The expenses of TechSolve in Q3 of 2022 were $1 million, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in Q3 of 2022?"
+        },
+        {
+          "answer": "The profit of TechSolve in Q3 of 2022 was $800,000, which was a 33% increase from Q2 of 2022.",
+          "question": "What was the profit of TechSolve in Q3 of 2022?"
+        },
+        {
+          "answer": "The revenue of TechSolve in Q4 of 2022 was $2 million, which was a 11% increase from Q3 of 2022.",
+          "question": "What was the revenue of TechSolve in Q4 of 2022?"
+        },
+        {
+          "answer": "The expenses of TechSolve in Q4 of 2022 were $1.1 million, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in Q4 of 2022?"
+        },
+        {
+          "answer": "The profit of TechSolve in Q4 of 2022 was $900,000, which was a 12.5% increase from Q3 of 2022.",
+          "question": "What was the profit of TechSolve in Q4 of 2022?"
+        },
+        {
+          "answer": "The revenue of TechSolve in 2022 was $6.5 million, which was a 30% increase from 2021.",
+          "question": "What was the revenue of TechSolve in 2022?"
+        },
+        {
+          "answer": "The expenses of TechSolve in 2022 were $3.8 million, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in 2022?"
+        },
+        {
+          "answer": "The profit of TechSolve in 2022 was $2.7 million, which was a 35% increase from 2021.",
+          "question": "What was the profit of TechSolve in 2022?"
+        },
+        {
+          "answer": "The revenue of TechSolve in Q1 of 2023 was $2.2 million, which was a 10% increase from Q4 of 2022.",
+          "question": "What was the revenue of TechSolve in Q1 of 2023?"
+        },
+        {
+          "answer": "The expenses of TechSolve in Q1 of 2023 were $1.2 million, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in Q1 of 2023?"
+        },
+        {
+          "answer": "The profit of TechSolve in Q1 of 2023 was $1 million, which was a 11% increase from Q4 of 2022.",
+          "question": "What was the profit of TechSolve in Q1 of 2023?"
+        },
+        {
+          "answer": "The revenue of TechSolve in Q2 of 2023 was $2.5 million, which was a 13.6% increase from Q1 of 2023.",
+          "question": "What was the revenue of TechSolve in Q2 of 2023?"
+        },
+        {
+          "answer": "The expenses of TechSolve in Q2 of 2023 were $1.3 million, which were mainly composed of salaries, taxes, rent, utilities, marketing, software, hardware and cloud services.",
+          "question": "What were the expenses of TechSolve in Q2 of 2023?"
+        },
+        {
+          "answer": "$2.8 million, up 12% from Q2 2023.",
+          "question": "Q3 2023 revenue?"
+        },
+        {
+          "answer": "$1.4 million, up 7.7% from Q2 2023.",
+          "question": "Q3 2023 expenses?"
+        },
+        {
+          "answer": "$1.4 million, up 16.7% from Q2 2023.",
+          "question": "Q3 2023 profit?"
+        },
+        {
+          "answer": "$3 million, up 7.1% from Q3 2023.",
+          "question": "Q4 2023 revenue?"
+        },
+        {
+          "answer": "$1.5 million, up 7.1% from Q3 2023.",
+          "question": "Q4 2023 expenses?"
+        },
+        {
+          "answer": "$1.5 million, up 7.1% from Q3 2023.",
+          "question": "Q4 2023 profit?"
+        },
+        {
+          "answer": "$10.5 million, up 61.5% from 2022.",
+          "question": "2023 revenue?"
+        },
+        {
+          "answer": "$5.4 million, up 42.1% from 2022.",
+          "question": "2023 expenses?"
+        },
+        {
+          "answer": "$5.1 million, up 88.9% from 2022.",
+          "question": "2023 profit?"
+        },
+        {
+          "answer": "$3.3 million, up 10% from Q4 2023.",
+          "question": "Q1 2021 revenue?"
+        },
+        {
+          "answer": "$1.65 million, up 10% from Q4 2023.",
+          "question": "Q1 2021 expenses?"
+        },
+        {
+          "answer": "$1.65 million, up 10% from Q4 2023.",
+          "question": "Q1 2021 profit?"
+        },
+        {
+          "answer": "$3.6 million, up 9.1% from Q1 2021.",
+          "question": "Q2 2021 revenue?"
+        },
+        {
+          "answer": "$1.8 million, up 9.1% from Q1 2021.",
+          "question": "Q2 2021 expenses?"
+        },
+        {
+          "answer": "$1.8 million, up 9.1% from Q1 2021.",
+          "question": "Q2 2021 profit?"
+        },
+        {
+          "answer": "$3.9 million, up 8.3% from Q2 2021.",
+          "question": "Q3 2021 revenue?"
+        },
+        {
+          "answer": "$1.95 million, up 8.3% from Q2 2021.",
+          "question": "Q3 2021 expenses?"
+        },
+        {
+          "answer": "$1.95 million, up 8.3% from Q2 2021.",
+          "question": "Q3 2021 profit?"
+        },
+        {
+          "answer": "$4.2 million, up 7.7% from Q3 2021.",
+          "question": "Q4 2021 revenue?"
+        },
+        {
+          "answer": "$2.1 million, up 7.7% from Q3 2021.",
+          "question": "Q4 2021 expenses?"
+        }
+      ],
+      "es": [
+        null,
+        {
+          "answer": "La facturación de TechSolve en el primer trimestre de 2022 fue de $1.2 millones, lo cual representó un aumento del 20% con respecto al cuarto trimestre de 2021.",
+          "question": "¿Cuál fue la facturación de TechSolve en el primer trimestre de 2022?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el primer trimestre de 2022 fueron de $800,000, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el primer trimestre de 2022?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el primer trimestre de 2022 fue de $400,000, lo cual representó un aumento del 25% con respecto al cuarto trimestre de 2021.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el primer trimestre de 2022?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el segundo trimestre de 2022 fue de $1.5 millones, lo cual representó un aumento del 25% con respecto al primer trimestre de 2022.",
+          "question": "¿Cuál fue la facturación de TechSolve en el segundo trimestre de 2022?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el segundo trimestre de 2022 fueron de $900,000, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el segundo trimestre de 2022?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el segundo trimestre de 2022 fue de $600,000, lo cual representó un aumento del 50% con respecto al primer trimestre de 2022.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el segundo trimestre de 2022?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el tercer trimestre de 2022 fue de $1.8 millones, lo cual representó un aumento del 20% con respecto al segundo trimestre de 2022.",
+          "question": "¿Cuál fue la facturación de TechSolve en el tercer trimestre de 2022?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el tercer trimestre de 2022 fueron de $1 millón, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el tercer trimestre de 2022?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el tercer trimestre de 2022 fue de $800,000, lo cual representó un aumento del 33% con respecto al segundo trimestre de 2022.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el tercer trimestre de 2022?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el cuarto trimestre de 2022 fue de $2 millones, lo cual representó un aumento del 11% con respecto al tercer trimestre de 2022.",
+          "question": "¿Cuál fue la facturación de TechSolve en el cuarto trimestre de 2022?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el cuarto trimestre de 2022 fueron de $1.1 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el cuarto trimestre de 2022?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el cuarto trimestre de 2022 fue de $900,000, lo cual representó un aumento del 12.5% con respecto al tercer trimestre de 2022.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el cuarto trimestre de 2022?"
+        },
+        {
+          "answer": "La facturación de TechSolve en 2022 fue de $6.5 millones, lo cual representó un aumento del 30% con respecto a 2021.",
+          "question": "¿Cuál fue la facturación de TechSolve en 2022?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en 2022 fueron de $3.8 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en 2022?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en 2022 fue de $2.7 millones, lo cual representó un aumento del 35% con respecto a 2021.",
+          "question": "¿Cuál fue la ganancia de TechSolve en 2022?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el primer trimestre de 2023 fue de $2.2 millones, lo cual representó un aumento del 10% con respecto al cuarto trimestre de 2022.",
+          "question": "¿Cuál fue la facturación de TechSolve en el primer trimestre de 2023?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el primer trimestre de 2023 fueron de $1.2 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el primer trimestre de 2023?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el primer trimestre de 2023 fue de $1 millón, lo cual representó un aumento del 11% con respecto al cuarto trimestre de 2022.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el primer trimestre de 2023?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el segundo trimestre de 2023 fue de $2.5 millones, lo cual representó un aumento del 13.6% con respecto al primer trimestre de 2023.",
+          "question": "¿Cuál fue la facturación de TechSolve en el segundo trimestre de 2023?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el segundo trimestre de 2023 fueron de $1.3 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el segundo trimestre de 2023?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el tercer trimestre de 2023 fue de $2.8 millones, lo cual representó un aumento del 12% con respecto al segundo trimestre de 2023.",
+          "question": "¿Cuál fue la facturación de TechSolve en el tercer trimestre de 2023?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el tercer trimestre de 2023 fueron de $1.4 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el tercer trimestre de 2023?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el tercer trimestre de 2023 fue de $1.4 millones, lo cual representó un aumento del 16.7% con respecto al segundo trimestre de 2023.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el tercer trimestre de 2023?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el cuarto trimestre de 2023 fue de $3 millones, lo cual representó un aumento del 7.1% con respecto al tercer trimestre de 2023.",
+          "question": "¿Cuál fue la facturación de TechSolve en el cuarto trimestre de 2023?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el cuarto trimestre de 2023 fueron de $1.5 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el cuarto trimestre de 2023?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el cuarto trimestre de 2023 fue de $1.5 millones, lo cual representó un aumento del 7.1% con respecto al tercer trimestre de 2023.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el cuarto trimestre de 2023?"
+        },
+        {
+          "answer": "La facturación de TechSolve en 2023 fue de $10.5 millones, lo cual representó un aumento del 61.5% con respecto a 2022.",
+          "question": "¿Cuál fue la facturación de TechSolve en 2023?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en 2023 fueron de $5.4 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en 2023?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en 2023 fue de $5.1 millones, lo cual representó un aumento del 88.9% con respecto a 2022.",
+          "question": "¿Cuál fue la ganancia de TechSolve en 2023?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el primer trimestre de 2021 fue de $3.3 millones, lo cual representó un aumento del 10% con respecto al cuarto trimestre de 2023.",
+          "question": "¿Cuál fue la facturación de TechSolve en el primer trimestre de 2021?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el primer trimestre de 2021 fueron de $1.65 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el primer trimestre de 2021?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el primer trimestre de 2021 fue de $1.65 millones, lo cual representó un aumento del 10% con respecto al cuarto trimestre de 2023.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el primer trimestre de 2021?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el segundo trimestre de 2021 fue de $3.6 millones, lo cual representó un aumento del 9.1% con respecto al primer trimestre de 2021.",
+          "question": "¿Cuál fue la facturación de TechSolve en el segundo trimestre de 2021?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el segundo trimestre de 2021 fueron de $1.8 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el segundo trimestre de 2021?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el segundo trimestre de 2021 fue de $1.8 millones, lo cual representó un aumento del 9.1% con respecto al primer trimestre de 2021.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el segundo trimestre de 2021?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el tercer trimestre de 2021 fue de $3.9 millones, lo cual representó un aumento del 8.3% con respecto al segundo trimestre de 2021.",
+          "question": "¿Cuál fue la facturación de TechSolve en el tercer trimestre de 2021?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el tercer trimestre de 2021 fueron de $1.95 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el tercer trimestre de 2021?"
+        },
+        {
+          "answer": "La ganancia de TechSolve en el tercer trimestre de 2021 fue de $1.95 millones, lo cual representó un aumento del 8.3% con respecto al segundo trimestre de 2021.",
+          "question": "¿Cuál fue la ganancia de TechSolve en el tercer trimestre de 2021?"
+        },
+        {
+          "answer": "La facturación de TechSolve en el cuarto trimestre de 2021 fue de $4.2 millones, lo cual representó un aumento del 7.7% con respecto al tercer trimestre de 2021.",
+          "question": "¿Cuál fue la facturación de TechSolve en el cuarto trimestre de 2021?"
+        },
+        {
+          "answer": "Los gastos de TechSolve en el cuarto trimestre de 2021 fueron de $2.1 millones, los cuales estuvieron compuestos principalmente por salarios, impuestos, alquiler, servicios públicos, marketing, software, hardware y servicios en la nube.",
+          "question": "¿Cuáles fueron los gastos de TechSolve en el cuarto trimestre de 2021?"
+        }
+      ],
+      "pt-br": [
+        null,
+        {
+          "answer": "A receita da TechSolve no 1º trimestre de 2022 foi de $1,2 milhão, o que representou um aumento de 20% em relação ao 4º trimestre de 2021.",
+          "question": "Qual foi a receita da TechSolve no 1º trimestre de 2022?"
+        },
+        {
+          "answer": "As despesas da TechSolve no 1º trimestre de 2022 foram de $800.000, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve no 1º trimestre de 2022?"
+        },
+        {
+          "answer": "O lucro da TechSolve no 1º trimestre de 2022 foi de $400.000, o que representou um aumento de 25% em relação ao 4º trimestre de 2021.",
+          "question": "Qual foi o lucro da TechSolve no 1º trimestre de 2022?"
+        },
+        {
+          "answer": "A receita da TechSolve no 2º trimestre de 2022 foi de $1,5 milhão, o que representou um aumento de 25% em relação ao 1º trimestre de 2022.",
+          "question": "Qual foi a receita da TechSolve no 2º trimestre de 2022?"
+        },
+        {
+          "answer": "As despesas da TechSolve no 2º trimestre de 2022 foram de $900.000, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve no 2º trimestre de 2022?"
+        },
+        {
+          "answer": "O lucro da TechSolve no 2º trimestre de 2022 foi de $600.000, o que representou um aumento de 50% em relação ao 1º trimestre de 2022.",
+          "question": "Qual foi o lucro da TechSolve no 2º trimestre de 2022?"
+        },
+        {
+          "answer": "A receita da TechSolve no 3º trimestre de 2022 foi de $1,8 milhão, o que representou um aumento de 20% em relação ao 2º trimestre de 2022.",
+          "question": "Qual foi a receita da TechSolve no 3º trimestre de 2022?"
+        },
+        {
+          "answer": "As despesas da TechSolve no 3º trimestre de 2022 foram de $1 milhão, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve no 3º trimestre de 2022?"
+        },
+        {
+          "answer": "O lucro da TechSolve no 3º trimestre de 2022 foi de $800.000, o que representou um aumento de 33% em relação ao 2º trimestre de 2022.",
+          "question": "Qual foi o lucro da TechSolve no 3º trimestre de 2022?"
+        },
+        {
+          "answer": "A receita da TechSolve no 4º trimestre de 2022 foi de $2 milhões, o que representou um aumento de 11% em relação ao 3º trimestre de 2022.",
+          "question": "Qual foi a receita da TechSolve no 4º trimestre de 2022?"
+        },
+        {
+          "answer": "As despesas da TechSolve no 4º trimestre de 2022 foram de $1,1 milhão, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve no 4º trimestre de 2022?"
+        },
+        {
+          "answer": "O lucro da TechSolve no 4º trimestre de 2022 foi de $900.000, o que representou um aumento de 12,5% em relação ao 3º trimestre de 2022.",
+          "question": "Qual foi o lucro da TechSolve no 4º trimestre de 2022?"
+        },
+        {
+          "answer": "A receita da TechSolve em 2022 foi de $6,5 milhões, o que representou um aumento de 30% em relação a 2021.",
+          "question": "Qual foi a receita da TechSolve em 2022?"
+        },
+        {
+          "answer": "As despesas da TechSolve em 2022 foram de $3,8 milhões, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve em 2022?"
+        },
+        {
+          "answer": "O lucro da TechSolve em 2022 foi de $2,7 milhões, o que representou um aumento de 35% em relação a 2021.",
+          "question": "Qual foi o lucro da TechSolve em 2022?"
+        },
+        {
+          "answer": "A receita da TechSolve no 1º trimestre de 2023 foi de $2,2 milhões, o que representou um aumento de 10% em relação ao 4º trimestre de 2022.",
+          "question": "Qual foi a receita da TechSolve no 1º trimestre de 2023?"
+        },
+        {
+          "answer": "As despesas da TechSolve no 1º trimestre de 2023 foram de $1,2 milhão, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve no 1º trimestre de 2023?"
+        },
+        {
+          "answer": "O lucro da TechSolve no 1º trimestre de 2023 foi de $1 milhão, o que representou um aumento de 11% em relação ao 4º trimestre de 2022.",
+          "question": "Qual foi o lucro da TechSolve no 1º trimestre de 2023?"
+        },
+        {
+          "answer": "A receita da TechSolve no 2º trimestre de 2023 foi de $2,5 milhões, o que representou um aumento de 13,6% em relação ao 1º trimestre de 2023.",
+          "question": "Qual foi a receita da TechSolve no 2º trimestre de 2023?"
+        },
+        {
+          "answer": "As despesas da TechSolve no 2º trimestre de 2023 foram de $1,3 milhão, sendo compostas principalmente por salários, impostos, aluguel, serviços públicos, marketing, software, hardware e serviços em nuvem.",
+          "question": "Quais foram as despesas da TechSolve no 2º trimestre de 2023?"
+        },
+        {
+          "answer": "$2,8 milhões, um aumento de 12% em relação ao 2º trimestre de 2023.",
+          "question": "Receita do 3º trimestre de 2023?"
+        },
+        {
+          "answer": "$1,4 milhão, um aumento de 7,7% em relação ao 2º trimestre de 2023.",
+          "question": "Despesas do 3º trimestre de 2023?"
+        },
+        {
+          "answer": "$1,4 milhão, um aumento de 16,7% em relação ao 2º trimestre de 2023.",
+          "question": "Lucro do 3º trimestre de 2023?"
+        },
+        {
+          "answer": "$3 milhões, um aumento de 7,1% em relação ao 3º trimestre de 2023.",
+          "question": "Receita do 4º trimestre de 2023?"
+        },
+        {
+          "answer": "$1,5 milhão, um aumento de 7,1% em relação ao 3º trimestre de 2023.",
+          "question": "Despesas do 4º trimestre de 2023?"
+        },
+        {
+          "answer": "$1,5 milhão, um aumento de 7,1% em relação ao 3º trimestre de 2023.",
+          "question": "Lucro do 4º trimestre de 2023?"
+        },
+        {
+          "answer": "$10,5 milhões, um aumento de 61,5% em relação a 2022.",
+          "question": "Receita de 2023?"
+        },
+        {
+          "answer": "$5,4 milhões, um aumento de 42,1% em relação a 2022.",
+          "question": "Despesas de 2023?"
+        },
+        {
+          "answer": "$5,1 milhões, um aumento de 88,9% em relação a 2022.",
+          "question": "Lucro de 2023?"
+        },
+        {
+          "answer": "$3,3 milhões, um aumento de 10% em relação ao 4º trimestre de 2023.",
+          "question": "Receita do 1º trimestre de 2021?"
+        },
+        {
+          "answer": "$1,65 milhão, um aumento de 10% em relação ao 4º trimestre de 2023.",
+          "question": "Despesas do 1º trimestre de 2021?"
+        },
+        {
+          "answer": "$1,65 milhão, um aumento de 10% em relação ao 4º trimestre de 2023.",
+          "question": "Lucro do 1º trimestre de 2021?"
+        },
+        {
+          "answer": "$3,6 milhões, um aumento de 9,1% em relação ao 1º trimestre de 2021.",
+          "question": "Receita do 2º trimestre de 2021?"
+        },
+        {
+          "answer": "$1,8 milhão, um aumento de 9,1% em relação ao 1º trimestre de 2021.",
+          "question": "Despesas do 2º trimestre de 2021?"
+        },
+        {
+          "answer": "$1,8 milhão, um aumento de 9,1% em relação ao 1º trimestre de 2021.",
+          "question": "Lucro do 2º trimestre de 2021?"
+        },
+        {
+          "answer": "$3,9 milhões, um aumento de 8,3% em relação ao 2º trimestre de 2021.",
+          "question": "Receita do 3º trimestre de 2021?"
+        },
+        {
+          "answer": "$1,95 milhão, um aumento de 8,3% em relação ao 2º trimestre de 2021.",
+          "question": "Despesas do 3º trimestre de 2021?"
+        },
+        {
+          "answer": "$1,95 milhão, um aumento de 8,3% em relação ao 2º trimestre de 2021.",
+          "question": "Lucro do 3º trimestre de 2021?"
+        },
+        {
+          "answer": "$4,2 milhões, um aumento de 7,7% em relação ao 3º trimestre de 2021.",
+          "question": "Receita do 4º trimestre de 2021?"
+        },
+        {
+          "answer": "$2,1 milhões, um aumento de 7,7% em relação ao 3º trimestre de 2021.",
+          "question": "Despesas do 4º trimestre de 2021?"
+        }
+      ]
+    },
+    "staff": {
+      "en-us": [
+        null,
+        {
+          "answer": "The founder and CEO of TechSolve is John Smith, who started the company in 1990 with a vision to provide high-quality, affordable and customized I.T solutions to businesses and individuals.",
+          "question": "Who is the founder and CEO of TechSolve?"
+        },
+        {
+          "answer": "The co-founder and CTO of TechSolve is Jane Lee, who joined the company in 1991 with a passion to use the latest technologies and tools to create cutting-edge solutions that give clients a competitive edge.",
+          "question": "Who is the co-founder and CTO of TechSolve?"
+        },
+        {
+          "answer": "The CFO of TechSolve is Mark Jones, who joined the company in 1995 with a expertise to manage and optimize the financial performance and growth of the company.",
+          "question": "Who is the CFO of TechSolve?"
+        },
+        {
+          "answer": "The COO of TechSolve is Lisa Chen, who joined the company in 1998 with a experience to oversee and improve the operational efficiency and quality of the company.",
+          "question": "Who is the COO of TechSolve?"
+        },
+        {
+          "answer": "The CMO of TechSolve is David Kim, who joined the company in 2000 with a creativity to design and execute the marketing strategy and brand identity of the company.",
+          "question": "Who is the CMO of TechSolve?"
+        },
+        {
+          "answer": "The CSO of TechSolve is Sarah Wilson, who joined the company in 2003 with a skill to ensure and enhance the security and protection of the company's data and systems.",
+          "question": "Who is the CSO of TechSolve?"
+        },
+        {
+          "answer": "The CIO of TechSolve is James Brown, who joined the company in 2005 with a knowledge to plan and implement the I.T strategy and infrastructure of the company.",
+          "question": "Who is the CIO of TechSolve?"
+        },
+        {
+          "answer": "The HR manager of TechSolve is Emma Green, who joined the company in 2007 with a talent to recruit, train and retain the best I.T experts for the company.",
+          "question": "Who is the HR manager of TechSolve?"
+        },
+        {
+          "answer": "The project manager of TechSolve is Ryan Clark, who joined the company in 2009 with a ability to manage and coordinate the I.T projects of the company and the clients.",
+          "question": "Who is the project manager of TechSolve?"
+        },
+        {
+          "answer": "The web developer of TechSolve is Anna Miller, who joined the company in 2011 with a proficiency to design and develop responsive, user-friendly and secure websites for the clients.",
+          "question": "Who is the web developer of TechSolve?"
+        },
+        {
+          "answer": "The software developer of TechSolve is Michael Wilson, who joined the company in 2013 with a expertise to design and develop high-quality, scalable and secure software for the clients.",
+          "question": "Who is the software developer of TechSolve?"
+        },
+        {
+          "answer": "The mobile developer of TechSolve is Jennifer Taylor, who joined the company in 2015 with a passion to design and develop innovative, user-friendly and secure mobile apps for the clients.",
+          "question": "Who is the mobile developer of TechSolve?"
+        },
+        {
+          "answer": "The database administrator of TechSolve is Robert Anderson, who joined the company in 2017 with a experience to design and manage the databases of the company and the clients.",
+          "question": "Who is the database administrator of TechSolve?"
+        },
+        {
+          "answer": "The network administrator of TechSolve is Jessica Thomas, who joined the company in 2019 with a skill to design and manage the networks of the company and the clients.",
+          "question": "Who is the network administrator of TechSolve?"
+        },
+        {
+          "answer": "The system administrator of TechSolve is Daniel White, who joined the company in 2021 with a knowledge to design and manage the systems of the company and the clients.",
+          "question": "Who is the system administrator of TechSolve?"
+        },
+        {
+          "answer": "The I.T support specialist of TechSolve is Andrew Martin, who joined the company in 2023 with a talent to provide technical support to the company and the clients.",
+          "question": "Who is the I.T support specialist of TechSolve?"
+        },
+        {
+          "answer": "The I.T security specialist of TechSolve is Emily Thompson, who joined the company in 2025 with a ability to ensure the security of the company and the clients.",
+          "question": "Who is the I.T security specialist of TechSolve?"
+        },
+        {
+          "answer": "The I.T consultant of TechSolve is David Garcia, who joined the company in 2027 with a proficiency to provide expert advice to the company and the clients.",
+          "question": "Who is the I.T consultant of TechSolve?"
+        },
+        {
+          "answer": "The I.T trainer of TechSolve is Maria Martinez, who joined the company in 2029 with a expertise to train the employees of the company and the clients.",
+          "question": "Who is the I.T trainer of TechSolve?"
+        },
+        {
+          "answer": "The I.T technician of TechSolve is James Robinson, who joined the company in 2031 with a passion to provide technical assistance to the company and the clients.",
+          "question": "Who is the I.T technician of TechSolve?"
+        },
+        {
+          "answer": "The I.T auditor of TechSolve is Mary Clark, who joined the company in 2033 with a experience to audit the I.T systems of the company and the clients.",
+          "question": "Who is the I.T auditor of TechSolve?"
+        },
+        {
+          "answer": "The I.T manager of TechSolve is John Smith, who joined the company in 2035 with a skill to manage the I.T department of the company and the clients.",
+          "question": "Who is the I.T manager of TechSolve?"
+        },
+        {
+          "answer": "The I.T director of TechSolve is Jane Lee, who joined the company in 2037 with a knowledge to direct the I.T department of the company and the clients.",
+          "question": "Who is the I.T director of TechSolve?"
+        },
+        {
+          "answer": "The I.T officer of TechSolve is Mark Jones, who joined the company in 2039 with a talent to oversee the I.T department of the company and the clients.",
+          "question": "Who is the I.T officer of TechSolve?"
+        },
+        {
+          "answer": "The salary of the founder and CEO of TechSolve is $1.000,000 per year.",
+          "question": "What is the salary of the founder and CEO of TechSolve?"
+        },
+        {
+          "answer": "The salary of the co-founder and CTO of TechSolve is $800,000 per year.",
+          "question": "What is the salary of the co-founder and CTO of TechSolve?"
+        },
+        {
+          "answer": "The average salary of TechSolve's staff is $80,000 per year, which is above the industry average.",
+          "question": "What is the average salary of TechSolve's staff?"
+        },
+        {
+          "answer": "The benefits and perks of working at TechSolve include health insurance, dental insurance, vision insurance, life insurance, disability insurance, retirement plan, paid time off, flexible schedule, remote work, professional development, performance bonus, referral bonus, employee recognition, employee wellness, employee discounts, etc.",
+          "question": "What are the benefits and perks of working at TechSolve?"
+        },
+        {
+          "answer": "The turnover rate of TechSolve's staff is 10%, which is below the industry average.",
+          "question": "What is the turnover rate of TechSolve's staff?"
+        },
+        {
+          "answer": "The reasons for TechSolve's staff to leave the company are mostly personal, such as relocation, family, education, career change, etc. Some of the staff also leave the company for better opportunities, higher salary, more challenges, etc.",
+          "question": "What are the reasons for TechSolve's staff to leave the company?"
+        },
+        {
+          "answer": "The strategies of TechSolve to retain their talent include providing competitive compensation, offering attractive benefits and perks, creating a positive and supportive work culture, fostering a collaborative and innovative work environment, encouraging a work-life balance and flexibility, providing feedback and recognition, offering opportunities for growth and development, etc.",
+          "question": "What are the strategies of TechSolve to retain their talent?"
+        },
+        {
+          "answer": "TechSolve measures the satisfaction and engagement of their staff by conducting regular surveys, interviews, reviews, and polls. TechSolve also analyzes the data and metrics of their staff's performance, productivity, retention, and turnover. TechSolve also listens to the feedback and suggestions of their staff and takes action to improve their work experience.",
+          "question": "How does TechSolve measure the satisfaction and engagement of their staff?"
+        },
+        {
+          "answer": "TechSolve rewards and recognizes their staff by giving them performance bonuses, referral bonuses, spot awards, gift cards, certificates, trophies, plaques, etc. TechSolve also celebrates their staff's achievements, milestones, birthdays, anniversaries, etc. TechSolve also showcases their staff's work and success stories on their website, social media, newsletter, etc.",
+          "question": "How does TechSolve reward and recognize their staff?"
+        },
+        {
+          "answer": "TechSolve supports the professional development of their staff by providing them with training, coaching, mentoring, courses, certifications, webinars, workshops, conferences, etc. TechSolve also encourages their staff to learn new skills, technologies, and tools. TechSolve also gives their staff opportunities to work on different projects, roles, and teams. TechSolve also supports their staff's career goals and aspirations.",
+          "question": "How does TechSolve support the professional development of their staff?"
+        },
+        {
+          "answer": "TechSolve promotes the diversity and inclusion of their staff by hiring and retaining staff from different backgrounds, cultures, genders, ages, abilities, etc. TechSolve also respects and values the differences and perspectives of their staff. TechSolve also fosters a culture of belonging and acceptance. TechSolve also provides their staff with resources, education, and support on diversity and inclusion issues.",
+          "question": "How does TechSolve promote the diversity and inclusion of their staff?"
+        },
+        {
+          "answer": "TechSolve ensures the health and wellness of their staff by providing them with health insurance, dental insurance, vision insurance, life insurance, disability insurance, etc. TechSolve also provides their staff with wellness programs, activities, and events, such as yoga, meditation, fitness, nutrition, etc. TechSolve also encourages their staff to take breaks, rest, and relax. TechSolve also provides their staff with counseling, therapy, and support services.",
+          "question": "How does TechSolve ensure the health and wellness of their staff?"
+        }
+      ],
+      "es": [
+        null,
+        {
+          "answer": "El fundador y CEO de TechSolve es John Smith, quien inició la empresa en 1990 con la visión de proporcionar soluciones de TI de alta calidad, accesibles y personalizadas para empresas e individuos.",
+          "question": "¿Quién es el fundador y CEO de TechSolve?"
+        },
+        {
+          "answer": "El cofundador y CTO de TechSolve es Jane Lee, quien se unió a la empresa en 1991 con pasión por utilizar las tecnologías y herramientas más recientes para crear soluciones innovadoras que brinden a los clientes una ventaja competitiva.",
+          "question": "¿Quién es el cofundador y CTO de TechSolve?"
+        },
+        {
+          "answer": "El CFO de TechSolve es Mark Jones, quien se unió a la empresa en 1995 con experiencia en gestionar y optimizar el rendimiento financiero y el crecimiento de la empresa.",
+          "question": "¿Quién es el CFO de TechSolve?"
+        },
+        {
+          "answer": "El COO de TechSolve es Lisa Chen, quien se unió a la empresa en 1998 con experiencia en supervisar y mejorar la eficiencia operativa y la calidad de la empresa.",
+          "question": "¿Quién es el COO de TechSolve?"
+        },
+        {
+          "answer": "El CMO de TechSolve es David Kim, quien se unió a la empresa en 2000 con creatividad para diseñar y ejecutar la estrategia de marketing y la identidad de marca de la empresa.",
+          "question": "¿Quién es el CMO de TechSolve?"
+        },
+        {
+          "answer": "El CSO de TechSolve es Sarah Wilson, quien se unió a la empresa en 2003 con la habilidad de garantizar y mejorar la seguridad y protección de los datos y sistemas de la empresa.",
+          "question": "¿Quién es el CSO de TechSolve?"
+        },
+        {
+          "answer": "El CIO de TechSolve es James Brown, quien se unió a la empresa en 2005 con el conocimiento para planificar e implementar la estrategia y la infraestructura de TI de la empresa.",
+          "question": "¿Quién es el CIO de TechSolve?"
+        },
+        {
+          "answer": "El gerente de RRHH de TechSolve es Emma Green, quien se unió a la empresa en 2007 con el talento para reclutar, capacitar y retener a los mejores expertos en TI para la empresa.",
+          "question": "¿Quién es el gerente de RRHH de TechSolve?"
+        },
+        {
+          "answer": "El gerente de proyectos de TechSolve es Ryan Clark, quien se unió a la empresa en 2009 con la habilidad de gestionar y coordinar los proyectos de TI de la empresa y los clientes.",
+          "question": "¿Quién es el gerente de proyectos de TechSolve?"
+        },
+        {
+          "answer": "El desarrollador web de TechSolve es Anna Miller, quien se unió a la empresa en 2011 con la competencia para diseñar y desarrollar sitios web receptivos, amigables para el usuario y seguros para los clientes.",
+          "question": "¿Quién es el desarrollador web de TechSolve?"
+        },
+        {
+          "answer": "El desarrollador de software de TechSolve es Michael Wilson, quien se unió a la empresa en 2013 con la experiencia para diseñar y desarrollar software de alta calidad, escalable y seguro para los clientes.",
+          "question": "¿Quién es el desarrollador de software de TechSolve?"
+        },
+        {
+          "answer": "El desarrollador de aplicaciones móviles de TechSolve es Jennifer Taylor, quien se unió a la empresa en 2015 con pasión por diseñar y desarrollar aplicaciones móviles innovadoras, amigables para el usuario y seguras para los clientes.",
+          "question": "¿Quién es el desarrollador de aplicaciones móviles de TechSolve?"
+        },
+        {
+          "answer": "El administrador de bases de datos de TechSolve es Robert Anderson, quien se unió a la empresa en 2017 con experiencia en el diseño y gestión de bases de datos de la empresa y los clientes.",
+          "question": "¿Quién es el administrador de bases de datos de TechSolve?"
+        },
+        {
+          "answer": "El administrador de redes de TechSolve es Jessica Thomas, quien se unió a la empresa en 2019 con la habilidad de diseñar y gestionar las redes de la empresa y los clientes.",
+          "question": "¿Quién es el administrador de redes de TechSolve?"
+        },
+        {
+          "answer": "El administrador de sistemas de TechSolve es Daniel White, quien se unió a la empresa en 2021 con el conocimiento para diseñar y gestionar los sistemas de la empresa y los clientes.",
+          "question": "¿Quién es el administrador de sistemas de TechSolve?"
+        },
+        {
+          "answer": "El especialista en soporte de TI de TechSolve es Andrew Martin, quien se unió a la empresa en 2023 con el talento para brindar soporte técnico a la empresa y los clientes.",
+          "question": "¿Quién es el especialista en soporte de TI de TechSolve?"
+        },
+        {
+          "answer": "El especialista en seguridad de TI de TechSolve es Emily Thompson, quien se unió a la empresa en 2025 con la habilidad de garantizar la seguridad de la empresa y los clientes.",
+          "question": "¿Quién es el especialista en seguridad de TI de TechSolve?"
+        },
+        {
+          "answer": "El consultor de TI de TechSolve es David Garcia, quien se unió a la empresa en 2027 con la competencia para brindar consultoría especializada a la empresa y los clientes.",
+          "question": "¿Quién es el consultor de TI de TechSolve?"
+        },
+        {
+          "answer": "El entrenador de TI de TechSolve es Maria Martinez, quien se unió a la empresa en 2029 con la experiencia para capacitar a los empleados de la empresa y los clientes.",
+          "question": "¿Quién es el entrenador de TI de TechSolve?"
+        },
+        {
+          "answer": "El técnico de TI de TechSolve es James Robinson, quien se unió a la empresa en 2031 con pasión por brindar asistencia técnica a la empresa y los clientes.",
+          "question": "¿Quién es el técnico de TI de TechSolve?"
+        },
+        {
+          "answer": "El auditor de TI de TechSolve es Mary Clark, quien se unió a la empresa en 2033 con experiencia en la auditoría de los sistemas de TI de la empresa y los clientes.",
+          "question": "¿Quién es el auditor de TI de TechSolve?"
+        },
+        {
+          "answer": "El gerente de TI de TechSolve es John Smith, quien se unió a la empresa en 2035 con la habilidad de gestionar el departamento de TI de la empresa y los clientes.",
+          "question": "¿Quién es el gerente de TI de TechSolve?"
+        },
+        {
+          "answer": "El director de TI de TechSolve es Jane Lee, quien se unió a la empresa en 2037 con el conocimiento para dirigir el departamento de TI de la empresa y los clientes.",
+          "question": "¿Quién es el director de TI de TechSolve?"
+        },
+        {
+          "answer": "El oficial de TI de TechSolve es Mark Jones, quien se unió a la empresa en 2039 con el talento para supervisar el departamento de TI de la empresa y los clientes.",
+          "question": "¿Quién es el oficial de TI de TechSolve?"
+        },
+        {
+          "answer": "El salario del fundador y CEO de TechSolve es de $1,000,000 al año.",
+          "question": "¿Cuál es el salario del fundador y CEO de TechSolve?"
+        },
+        {
+          "answer": "El salario del cofundador y CTO de TechSolve es de $800,000 al año.",
+          "question": "¿Cuál es el salario del cofundador y CTO de TechSolve?"
+        },
+        {
+          "answer": "El salario promedio de los empleados de TechSolve es de $80,000 al año, lo cual está por encima del promedio de la industria.",
+          "question": "¿Cuál es el salario promedio de los empleados de TechSolve?"
+        },
+        {
+          "answer": "Los beneficios y ventajas de trabajar en TechSolve incluyen seguro de salud, seguro dental, seguro de visión, seguro de vida, seguro de discapacidad, plan de jubilación, tiempo libre remunerado, horario flexible, trabajo remoto, desarrollo profesional, bonificaciones por rendimiento, bonificaciones por referencia, reconocimiento de los empleados, bienestar de los empleados, descuentos para empleados, etc.",
+          "question": "¿Cuáles son los beneficios y ventajas de trabajar en TechSolve?"
+        },
+        {
+          "answer": "La tasa de rotación de empleados de TechSolve es del 10%, lo cual está por debajo del promedio de la industria.",
+          "question": "¿Cuál es la tasa de rotación de empleados de TechSolve?"
+        },
+        {
+          "answer": "Las razones por las que los empleados de TechSolve abandonan la empresa son principalmente personales, como cambio de ubicación, familia, educación, cambio de carrera, etc. Algunos empleados también abandonan la empresa en busca de mejores oportunidades, salarios más altos, más desafíos, etc.",
+          "question": "¿Cuáles son las razones por las que los empleados de TechSolve abandonan la empresa?"
+        },
+        {
+          "answer": "Las estrategias de TechSolve para retener a sus talentos incluyen ofrecer una remuneración competitiva, ofrecer beneficios y ventajas atractivas, crear una cultura de trabajo positiva y de apoyo, promover un entorno de trabajo colaborativo e innovador, fomentar el equilibrio entre el trabajo y la vida personal y la flexibilidad, proporcionar retroalimentación y reconocimiento, ofrecer oportunidades de crecimiento y desarrollo, etc.",
+          "question": "¿Cuáles son las estrategias de TechSolve para retener a sus talentos?"
+        },
+        {
+          "answer": "TechSolve mide la satisfacción y el compromiso de sus empleados a través de encuestas, entrevistas, evaluaciones y cuestionarios regulares. TechSolve también analiza los datos y métricas de rendimiento, productividad, retención y rotación de sus empleados. TechSolve también escucha los comentarios y sugerencias de sus empleados y toma medidas para mejorar su experiencia laboral.",
+          "question": "¿Cómo mide TechSolve la satisfacción y el compromiso de sus empleados?"
+        },
+        {
+          "answer": "TechSolve recompensa y reconoce a sus empleados otorgándoles bonificaciones por rendimiento, bonificaciones por referencia, premios instantáneos, tarjetas de regalo, certificados, trofeos, placas, etc. TechSolve también celebra los logros, hitos, aniversarios, etc. de sus empleados. TechSolve también destaca el trabajo y las historias de éxito de sus empleados en su sitio web, redes sociales, boletín informativo, etc.",
+          "question": "¿Cómo recompensa y reconoce TechSolve a sus empleados?"
+        },
+        {
+          "answer": "TechSolve apoya el desarrollo profesional de sus empleados proporcionando capacitación, coaching, mentoría, cursos, certificaciones, webinars, talleres, conferencias, etc. TechSolve también fomenta que sus empleados aprendan nuevas habilidades, tecnologías y herramientas. TechSolve también ofrece a sus empleados oportunidades para trabajar en diferentes proyectos, roles y equipos. TechSolve también apoya los objetivos y aspiraciones profesionales de sus empleados.",
+          "question": "¿Cómo apoya TechSolve el desarrollo profesional de sus empleados?"
+        },
+        {
+          "answer": "TechSolve promueve la diversidad e inclusión de sus empleados contratando y reteniendo empleados de diferentes orígenes, culturas, géneros, edades, habilidades, etc. TechSolve también respeta y valora las diferencias y perspectivas de sus empleados. TechSolve también promueve una cultura de pertenencia y aceptación. TechSolve también proporciona recursos, educación y apoyo a sus empleados sobre temas de diversidad e inclusión.",
+          "question": "¿Cómo promueve TechSolve la diversidad e inclusión de sus empleados?"
+        },
+        {
+          "answer": "TechSolve garantiza la salud y el bienestar de sus empleados proporcionando seguro de salud, seguro dental, seguro de visión, seguro de vida, seguro de discapacidad, etc. TechSolve también ofrece programas, actividades y eventos de bienestar para sus empleados, como yoga, meditación, actividades físicas, nutrición, etc. TechSolve también fomenta que sus empleados tomen descansos, descansen y se relajen. TechSolve también ofrece asesoramiento, terapia y servicios de apoyo a sus empleados.",
+          "question": "¿Cómo garantiza TechSolve la salud y el bienestar de sus empleados?"
+        }
+      ],
+      "pt-br": [
+        null,
+        {
+          "answer": "O fundador e CEO da TechSolve é John Smith, que iniciou a empresa em 1990 com a visão de fornecer soluções de TI de alta qualidade, acessíveis e personalizadas para empresas e indivíduos.",
+          "question": "Quem é o fundador e CEO da TechSolve?"
+        },
+        {
+          "answer": "O co-fundador e CTO da TechSolve é Jane Lee, que ingressou na empresa em 1991 com paixão por usar as tecnologias e ferramentas mais recentes para criar soluções inovadoras que dão aos clientes uma vantagem competitiva.",
+          "question": "Quem é o co-fundador e CTO da TechSolve?"
+        },
+        {
+          "answer": "O CFO da TechSolve é Mark Jones, que ingressou na empresa em 1995 com expertise em gerenciar e otimizar o desempenho financeiro e o crescimento da empresa.",
+          "question": "Quem é o CFO da TechSolve?"
+        },
+        {
+          "answer": "O COO da TechSolve é Lisa Chen, que ingressou na empresa em 1998 com experiência em supervisionar e melhorar a eficiência operacional e a qualidade da empresa.",
+          "question": "Quem é o COO da TechSolve?"
+        },
+        {
+          "answer": "O CMO da TechSolve é David Kim, que ingressou na empresa em 2000 com criatividade para projetar e executar a estratégia de marketing e identidade da marca da empresa.",
+          "question": "Quem é o CMO da TechSolve?"
+        },
+        {
+          "answer": "O CSO da TechSolve é Sarah Wilson, que ingressou na empresa em 2003 com habilidade para garantir e aprimorar a segurança e proteção dos dados e sistemas da empresa.",
+          "question": "Quem é o CSO da TechSolve?"
+        },
+        {
+          "answer": "O CIO da TechSolve é James Brown, que ingressou na empresa em 2005 com conhecimento para planejar e implementar a estratégia e infraestrutura de TI da empresa.",
+          "question": "Quem é o CIO da TechSolve?"
+        },
+        {
+          "answer": "O gerente de RH da TechSolve é Emma Green, que ingressou na empresa em 2007 com talento para recrutar, treinar e reter os melhores especialistas em TI para a empresa.",
+          "question": "Quem é o gerente de RH da TechSolve?"
+        },
+        {
+          "answer": "O gerente de projetos da TechSolve é Ryan Clark, que ingressou na empresa em 2009 com habilidade para gerenciar e coordenar os projetos de TI da empresa e dos clientes.",
+          "question": "Quem é o gerente de projetos da TechSolve?"
+        },
+        {
+          "answer": "O desenvolvedor web da TechSolve é Anna Miller, que ingressou na empresa em 2011 com proficiência para projetar e desenvolver sites responsivos, amigáveis   ao usuário e seguros para os clientes.",
+          "question": "Quem é o desenvolvedor web da TechSolve?"
+        },
+        {
+          "answer": "O desenvolvedor de software da TechSolve é Michael Wilson, que ingressou na empresa em 2013 com expertise para projetar e desenvolver software de alta qualidade, escalável e seguro para os clientes.",
+          "question": "Quem é o desenvolvedor de software da TechSolve?"
+        },
+        {
+          "answer": "O desenvolvedor de aplicativos móveis da TechSolve é Jennifer Taylor, que ingressou na empresa em 2015 com paixão por projetar e desenvolver aplicativos móveis inovadores, amigáveis   ao usuário e seguros para os clientes.",
+          "question": "Quem é o desenvolvedor de aplicativos móveis da TechSolve?"
+        },
+        {
+          "answer": "O administrador de banco de dados da TechSolve é Robert Anderson, que ingressou na empresa em 2017 com experiência em projetar e gerenciar os bancos de dados da empresa e dos clientes.",
+          "question": "Quem é o administrador de banco de dados da TechSolve?"
+        },
+        {
+          "answer": "O administrador de rede da TechSolve é Jessica Thomas, que ingressou na empresa em 2019 com habilidade para projetar e gerenciar as redes da empresa e dos clientes.",
+          "question": "Quem é o administrador de rede da TechSolve?"
+        },
+        {
+          "answer": "O administrador de sistemas da TechSolve é Daniel White, que ingressou na empresa em 2021 com conhecimento para projetar e gerenciar os sistemas da empresa e dos clientes.",
+          "question": "Quem é o administrador de sistemas da TechSolve?"
+        },
+        {
+          "answer": "O especialista em suporte de TI da TechSolve é Andrew Martin, que ingressou na empresa em 2023 com talento para fornecer suporte técnico para a empresa e os clientes.",
+          "question": "Quem é o especialista em suporte de TI da TechSolve?"
+        },
+        {
+          "answer": "O especialista em segurança de TI da TechSolve é Emily Thompson, que ingressou na empresa em 2025 com habilidade para garantir a segurança da empresa e dos clientes.",
+          "question": "Quem é o especialista em segurança de TI da TechSolve?"
+        },
+        {
+          "answer": "O consultor de TI da TechSolve é David Garcia, que ingressou na empresa em 2027 com proficiência para fornecer consultoria especializada para a empresa e os clientes.",
+          "question": "Quem é o consultor de TI da TechSolve?"
+        },
+        {
+          "answer": "O treinador de TI da TechSolve é Maria Martinez, que ingressou na empresa em 2029 com expertise para treinar os funcionários da empresa e os clientes.",
+          "question": "Quem é o treinador de TI da TechSolve?"
+        },
+        {
+          "answer": "O técnico de TI da TechSolve é James Robinson, que ingressou na empresa em 2031 com paixão para fornecer assistência técnica para a empresa e os clientes.",
+          "question": "Quem é o técnico de TI da TechSolve?"
+        },
+        {
+          "answer": "O auditor de TI da TechSolve é Mary Clark, que ingressou na empresa em 2033 com experiência em auditar os sistemas de TI da empresa e dos clientes.",
+          "question": "Quem é o auditor de TI da TechSolve?"
+        },
+        {
+          "answer": "O gerente de TI da TechSolve é John Smith, que ingressou na empresa em 2035 com habilidade para gerenciar o departamento de TI da empresa e dos clientes.",
+          "question": "Quem é o gerente de TI da TechSolve?"
+        },
+        {
+          "answer": "O diretor de TI da TechSolve é Jane Lee, que ingressou na empresa em 2037 com conhecimento para direcionar o departamento de TI da empresa e dos clientes.",
+          "question": "Quem é o diretor de TI da TechSolve?"
+        },
+        {
+          "answer": "O oficial de TI da TechSolve é Mark Jones, que ingressou na empresa em 2039 com talento para supervisionar o departamento de TI da empresa e dos clientes.",
+          "question": "Quem é o oficial de TI da TechSolve?"
+        },
+        {
+          "answer": "O salário do fundador e CEO da TechSolve é de $1.000.000 por ano.",
+          "question": "Qual é o salário do fundador e CEO da TechSolve?"
+        },
+        {
+          "answer": "O salário do co-fundador e CTO da TechSolve é de $800.000 por ano.",
+          "question": "Qual é o salário do co-fundador e CTO da TechSolve?"
+        },
+        {
+          "answer": "O salário médio dos funcionários da TechSolve é de $80.000 por ano, o que está acima da média da indústria.",
+          "question": "Qual é o salário médio dos funcionários da TechSolve?"
+        },
+        {
+          "answer": "Os benefícios e vantagens de trabalhar na TechSolve incluem seguro saúde, seguro odontológico, seguro de visão, seguro de vida, seguro de invalidez, plano de aposentadoria, folga remunerada, horário flexível, trabalho remoto, desenvolvimento profissional, bônus de desempenho, bônus de indicação, reconhecimento dos funcionários, bem-estar dos funcionários, descontos para funcionários, etc.",
+          "question": "Quais são os benefícios e vantagens de trabalhar na TechSolve?"
+        },
+        {
+          "answer": "A taxa de rotatividade dos funcionários da TechSolve é de 10%, o que está abaixo da média da indústria.",
+          "question": "Qual é a taxa de rotatividade dos funcionários da TechSolve?"
+        },
+        {
+          "answer": "Os motivos para os funcionários da TechSolve deixarem a empresa são principalmente pessoais, como mudança de localização, família, educação, mudança de carreira, etc. Alguns funcionários também deixam a empresa em busca de melhores oportunidades, salário mais alto, mais desafios, etc.",
+          "question": "Quais são os motivos para os funcionários da TechSolve deixarem a empresa?"
+        },
+        {
+          "answer": "As estratégias da TechSolve para reter seus talentos incluem oferecer remuneração competitiva, oferecer benefícios e vantagens atrativos, criar uma cultura de trabalho positiva e de apoio, promover um ambiente de trabalho colaborativo e inovador, incentivar o equilíbrio entre trabalho e vida pessoal e flexibilidade, fornecer feedback e reconhecimento, oferecer oportunidades de crescimento e desenvolvimento, etc.",
+          "question": "Quais são as estratégias da TechSolve para reter seus talentos?"
+        },
+        {
+          "answer": "A TechSolve mede a satisfação e o engajamento de seus funcionários por meio de pesquisas, entrevistas, avaliações e enquetes regulares. A TechSolve também analisa os dados e métricas de desempenho, produtividade, retenção e rotatividade de seus funcionários. A TechSolve também ouve o feedback e as sugestões de seus funcionários e toma medidas para melhorar sua experiência de trabalho.",
+          "question": "Como a TechSolve mede a satisfação e o engajamento de seus funcionários?"
+        },
+        {
+          "answer": "A TechSolve recompensa e reconhece seus funcionários dando-lhes bônus de desempenho, bônus de indicação, prêmios instantâneos, cartões-presente, certificados, troféus, placas, etc. A TechSolve também celebra as conquistas, marcos, aniversários, etc. de seus funcionários. A TechSolve também destaca o trabalho e as histórias de sucesso de seus funcionários em seu site, mídias sociais, boletim informativo, etc.",
+          "question": "Como a TechSolve recompensa e reconhece seus funcionários?"
+        },
+        {
+          "answer": "A TechSolve apoia o desenvolvimento profissional de seus funcionários fornecendo treinamento, coaching, mentoria, cursos, certificações, webinars, workshops, conferências, etc. A TechSolve também incentiva seus funcionários a aprender novas habilidades, tecnologias e ferramentas. A TechSolve também oferece aos seus funcionários oportunidades de trabalhar em diferentes projetos, funções e equipes. A TechSolve também apoia os objetivos e aspirações de carreira de seus funcionários.",
+          "question": "Como a TechSolve apoia o desenvolvimento profissional de seus funcionários?"
+        },
+        {
+          "answer": "A TechSolve promove a diversidade e inclusão de seus funcionários contratando e retendo funcionários de diferentes origens, culturas, gêneros, idades, habilidades, etc. A TechSolve também respeita e valoriza as diferenças e perspectivas de seus funcionários. A TechSolve também promove uma cultura de pertencimento e aceitação. A TechSolve também fornece recursos, educação e suporte aos seus funcionários sobre questões de diversidade e inclusão.",
+          "question": "Como a TechSolve promove a diversidade e inclusão de seus funcionários?"
+        },
+        {
+          "answer": "A TechSolve garante a saúde e o bem-estar de seus funcionários fornecendo seguro saúde, seguro odontológico, seguro de visão, seguro de vida, seguro de invalidez, etc. A TechSolve também oferece programas, atividades e eventos de bem-estar para seus funcionários, como yoga, meditação, atividades físicas, nutrição, etc. A TechSolve também incentiva seus funcionários a fazer pausas, descansar e relaxar. A TechSolve também oferece aconselhamento, terapia e serviços de suporte aos seus funcionários.",
+          "question": "Como a TechSolve garante a saúde e o bem-estar de seus funcionários?"
+        }
+      ]
+    }
+  }
+}
