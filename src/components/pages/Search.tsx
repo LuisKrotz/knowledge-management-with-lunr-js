@@ -1,17 +1,17 @@
-
 import firebaseConfig from '../../app/firebaseConfig'
 import { initializeApp } from 'firebase/app'
 import { getAnalytics } from 'firebase/analytics'
 import { child, get, getDatabase, ref } from 'firebase/database'
 
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, ReactNode } from 'react'
 import lunr from 'lunr'
 
 // Define the interface for the document type
 interface Document {
+  [x: string]: ReactNode
   id: string
-  title: string
-  body: string
+  question: string
+  answer: string
 }
 
 // Define a component that uses lunr to search the documents
@@ -22,6 +22,9 @@ const Search: React.FC = () => {
   const [index, setIndex] = useState<lunr.Index | null>(null)
   const [documents, setDocuments] = useState<Document[]>([])
   const [loading, setLoading] = useState(true)
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const [showMoreResults, setShowMoreResults] = useState(false)
+  const [displayedResults, setDisplayedResults] = useState(1)
 
   // Initialize Firebase
   const firebase = initializeApp(firebaseConfig)
@@ -30,7 +33,7 @@ const Search: React.FC = () => {
   const dbRef = ref(getDatabase())
 
   const getDocuments = (): Promise<Document[]> => {
-    return get(child(dbRef, 'documents/en-us'))
+    return get(child(dbRef, 'data/customer-support/en-us'))
       .then((snapshot) => {
         if (snapshot.exists()) {
           const data = snapshot.val()
@@ -39,8 +42,8 @@ const Search: React.FC = () => {
           data.forEach((entry, index) => {
             entries.push({
               id: index,
-              title: entry.title,
-              body: entry.body
+              question: entry.question,
+              answer: entry.answer
             })
           })
 
@@ -71,8 +74,8 @@ const Search: React.FC = () => {
       setIndex(
         lunr(function () {
           this.ref('id')
-          this.field('title')
-          this.field('body')
+          this.field('question')
+          this.field('answer')
 
           docs.forEach((doc) => {
             this.add(doc)
@@ -104,13 +107,27 @@ const Search: React.FC = () => {
       // This will allow for some errors in spelling or typing
       // You can also adjust the number of errors allowed by adding a number after the ~ symbol
       // For example, query~2 will allow for up to two errors
-      const results = escapedQuery.length > 2 ? index.search(`${escapedQuery}~2`).map(({ ref }) => {
+      const results = escapedQuery.length > 2 ? index.search(`${escapedQuery}~2`).map(({ ref, score }) => {
         // Convert both ref and id to numbers before comparing them
-        return documents.find((doc) => Number(doc.id) === Number(ref))
+        const document = documents.find((doc) => Number(doc.id) === Number(ref))
+        return {
+          ...document,
+          confidence: score
+        }
       }) as Document[] : []
 
       // Set the results state
       setResults(results)
+      setShowMoreResults(false)
+      setDisplayedResults(1)
+    }
+  }
+
+  // Handle the show more results event
+  const handleShowMoreResults = () => {
+    setDisplayedResults(displayedResults + 3)
+    if (displayedResults + 3 >= results.length) {
+      setShowMoreResults(false)
     }
   }
 
@@ -123,12 +140,22 @@ const Search: React.FC = () => {
         {loading ? (
           <li>Loading...</li>
         ) : (
-          results.map((doc) => (
-            <li key={doc.id}>
-              <h2>{doc.title}</h2>
-              <p>{doc.body}</p>
-            </li>
-          ))
+          results.length > 0 ? (
+            <>
+              {results.slice(0, displayedResults).map((result, index) => (
+                <li key={index}>
+                  <h2>{result.question}</h2>
+                  <p>{result.answer}</p>
+                  <p>Confidence Level: {Number(result.confidence).toFixed(2)}</p>
+                </li>
+              ))}
+              {results.length > displayedResults && (
+                <button onClick={handleShowMoreResults}>Show More Results</button>
+              )}
+            </>
+          ) : (
+            query.length > 1 && <li>No results found</li>
+          )
         )}
       </ul>
     </div>
