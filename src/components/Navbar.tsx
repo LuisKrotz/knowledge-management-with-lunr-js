@@ -40,6 +40,8 @@ function Navbar() {
         selector = LANG_SELECTOR.EN
     }
 
+
+
     useEffect(() => {
         document.documentElement.lang = lang
     }, [lang])
@@ -48,6 +50,8 @@ function Navbar() {
         if (value !== '') {
             setLang(value === 'br' ? 'pt-BR' : value)
             localStorage.setItem('currentLanguage', value)
+
+
 
             navigate(`/${value}`, { replace: true })
         }
@@ -60,14 +64,14 @@ function Navbar() {
             </h1>
 
             <div className="navbar__right">
+
                 <select
-                    aria-label="Select language"
+                    lang={lang}
                     className="navbar__language"
+                    defaultValue={lang}
+                    aria-label={LANG_SELECTOR[localStorage.getItem('currentLanguage').toUpperCase()].a11yDescription}
                     onChange={(event) => handleChange(event.target.value)}
                 >
-                    <option defaultValue="" value="">
-                        {selector.default}
-                    </option>
                     <option value="br">{selector.BR}</option>
                     <option value="en">{selector.EN}</option>
                     <option value="es">{selector.ES}</option>
