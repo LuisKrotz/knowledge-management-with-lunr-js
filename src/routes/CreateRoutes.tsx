@@ -221,7 +221,7 @@ const CreateRoutes = () => {
 
             <Route
                 path="*"
-                element={<NotFound data-title="404 | Dólar Free" />}
+                element={<NotFound data-title="404" />}
             />
         </Routes>
     )

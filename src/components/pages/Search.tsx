@@ -33,7 +33,9 @@ const Search: React.FC = () => {
   const dbRef = ref(getDatabase())
 
   const getDocuments = (): Promise<Document[]> => {
-    return get(child(dbRef, 'data/customer-support/en-us'))
+
+
+    return get(child(dbRef, `data/${localStorage.getItem('currentLanguage')}`))
       .then((snapshot) => {
         if (snapshot.exists()) {
           const data = snapshot.val()
