@@ -44,7 +44,7 @@ const Search: React.FC = () => {
     let langCode = 'en-us'
     switch (lang.toLowerCase()) {
       case 'br':
-        langCode = 'pt-BR'
+        langCode = 'pt-br'
         break
       case 'es':
         langCode = 'es'
@@ -107,7 +107,7 @@ const Search: React.FC = () => {
 
     // Call the async function
     fetchAndIndex()
-  }, [])
+  }, [lang])
 
   // Scroll to the bottom of the ul element
   useEffect(() => {
