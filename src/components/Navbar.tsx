@@ -8,7 +8,7 @@ const Navbar = ({ getLang }) => {
     const about = ['', '']
 
     const main = ['', '']
-    let selector: string
+    let selector
 
     const [lang, setLang] = useState<any>(
         localStorage.getItem('currentLanguage')
