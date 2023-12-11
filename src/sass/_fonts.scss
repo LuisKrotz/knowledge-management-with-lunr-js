@@ -4,20 +4,20 @@
     }
 
     &-md {
-        font-size: to-rem($F8);
+        font-size: to-rem(21);
 
         @include layout-1024() {
-            font-size: to-rem($F9);
+            font-size: to-rem(34);
         }
     }
 }
 
 .txt {
     &-md {
-        font-size: to-rem($F8);
+        font-size: to-rem(21);
     }
 
     &-sm {
-        font-size: to-rem($F7);
+        font-size: to-rem(13);
     }
 }

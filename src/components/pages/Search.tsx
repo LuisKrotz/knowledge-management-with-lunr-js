@@ -188,10 +188,11 @@ const Search: React.FC = () => {
             <>
               {resultHistory.slice(0, displayedResults).map((result, index) => (
                 <li key={index}>
-                  <p><small>{LANG_SEARCH[lang]?.searchingFor} {result?.question}</small></p>
-                  <p>{result?.answer}</p>
-                  <p><small>Confidence Level: {Number(result?.confidence).toFixed(2)}</small></p>
-                  <br />
+                  <p className="search__answers__question">{LANG_SEARCH[lang]?.searchingFor} {result?.question}</p>
+                  <p className="search__answers__answer">
+                    <span>{result?.answer}</span>
+                    <span>Confidence Level: {Number(result?.confidence).toFixed(2)}</span>
+                  </p>
                 </li>
               ))}
               {query.length > 1 && resultHistory.length === 0 && <li>{LANG_SEARCH[lang]?.noResults}</li>}
@@ -200,8 +201,8 @@ const Search: React.FC = () => {
             query.length > 1 && <li>{LANG_SEARCH[lang]?.noResults}</li>
           )
         )}
-      </ul>
-    </div>
+      </ul >
+    </div >
   )
 }
 

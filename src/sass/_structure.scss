@@ -1,32 +1,12 @@
 :root {
-    --white: #f1f7fb;
-    --black: #001c30;
+    --white: #ffffff;
+    --black: #000000;
     --grey-1: #aeb5b7;
     --grey-2: #dce6ea;
     --grey-3: #494d50;
-    --accent: #3a6b60;
-
-    // REACT TOASTIFY
-    // https://fkhadra.github.io/react-toastify/how-to-style/
-    --toastify-color-light: var(--white);
-    --toastify-color-dark: var(--black);
-    --toastify-color-info: #185075;
-    --toastify-color-success: #2b5d07;
-    --toastify-color-warning: #e59c00;
-    --toastify-color-error: #a51100;
-    --toastify-color-transparent: rgba(247, 242, 234, 0.7);
-
-    --toastify-toast-width: 20rem;
-    --toastify-toast-background: var(--white);
-    --toastify-toast-min-height: 4rem;
-    --toastify-toast-max-height: 50rem;
-    --toastify-font-family: 'Fira Sans', sans-serif;
-    --toastify-z-index: 100;
-
-    --toastify-text-color-light: var(--grey-3);
-
-    --toastify-spinner-color: var(--accent);
-    --toastify-spinner-color-empty-area: #5b3a6b46;
+    --orange: #da5801;
+    --blue: rgb(24, 73, 151);
+    --pink: rgb(151, 24, 151);
 }
 
 html,

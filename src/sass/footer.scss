@@ -9,13 +9,12 @@
     align-items: center;
 
     &__links {
-        @extend .txt-sm;
-
+        font-size: to-rem(10);
         list-style: none;
         display: flex;
         justify-content: center;
         width: 100%;
-        margin-bottom: to-rem($F5);
+        margin-bottom: to-rem(5);
 
         &__item {
             &:not(:first-of-type) {
@@ -29,6 +28,6 @@
     }
 
     &__copy {
-        @extend .txt-sm;
+        font-size: to-rem(10);
     }
 }

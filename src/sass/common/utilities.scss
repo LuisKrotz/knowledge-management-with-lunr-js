@@ -1,11 +1,9 @@
 .generic-button {
-    @extend .txt-sm;
-
     position: relative;
     transition: color 0.5s ease-in-out;
     color: var(--grey-3);
     border: 1px solid var(--grey-2);
-    padding: to-rem($F6) to-rem($F4);
+    padding: to-rem(8) to-rem(2);
     box-shadow: 0 0 0 0 transparent;
     display: block;
     box-sizing: border-box;
@@ -46,7 +44,7 @@
         width: 100%;
         height: 100%;
         opacity: 0;
-        box-shadow: inset to-rem($F2) to-rem($F2) to-rem($F5) 0 var(--grey-1),
-            inset to-rem(-$F2) to-rem(-$F2) to-rem($F5) 0 var(--grey-2);
+        box-shadow: inset to-rem(2) to-rem(2) to-rem(5) 0 var(--grey-1),
+            inset to-rem(-2) to-rem(-2) to-rem(5) 0 var(--grey-2);
     }
 }
