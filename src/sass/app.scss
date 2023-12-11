@@ -6,11 +6,13 @@
 @import './common/utilities';
 @import './navbar';
 @import './footer';
+@import './search';
 
 .app__main {
     position: relative;
-    padding: to-rem(80) to-rem(20) to-rem(180);
+    padding: to-rem(80) to-rem(20) to-rem(90);
     margin: 0 auto;
     box-sizing: border-box;
-    min-height: 100vh;
+    height: 100vh;
+    display: flex;
 }

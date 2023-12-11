@@ -2,8 +2,9 @@ import firebaseConfig from '../../app/firebaseConfig'
 import { initializeApp } from 'firebase/app'
 import { getAnalytics } from 'firebase/analytics'
 import { child, get, getDatabase, ref } from 'firebase/database'
+import { LANG_SEARCH } from '../../app/lang.config'
 
-import React, { useState, useEffect, ReactNode } from 'react'
+import React, { useState, useEffect, ReactNode, useRef } from 'react'
 import lunr from 'lunr'
 
 // Define the interface for the document type
@@ -16,15 +17,20 @@ interface Document {
 
 // Define a component that uses lunr to search the documents
 const Search: React.FC = () => {
+  const maxResults = 100
   // Initialize the state variables
   const [query, setQuery] = useState('')
-  const [results, setResults] = useState<Document[]>([])
+  const [resultHistory, setResultHistory] = useState<Document[]>([])
   const [index, setIndex] = useState<lunr.Index | null>(null)
   const [documents, setDocuments] = useState<Document[]>([])
   const [loading, setLoading] = useState(true)
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [showMoreResults, setShowMoreResults] = useState(false)
-  const [displayedResults, setDisplayedResults] = useState(1)
+  const [displayedResults, setDisplayedResults] = useState(maxResults)
+  const [lang, setLang] = useState<any>(
+    localStorage.getItem('currentLanguage').toUpperCase()
+  )
+
+  const ulRef = useRef<HTMLUListElement>(null)
 
   // Initialize Firebase
   const firebase = initializeApp(firebaseConfig)
@@ -33,9 +39,19 @@ const Search: React.FC = () => {
   const dbRef = ref(getDatabase())
 
   const getDocuments = (): Promise<Document[]> => {
+    setLang(localStorage.getItem('currentLanguage').toUpperCase())
 
+    let langCode = 'en-us'
+    switch (lang.toLowerCase()) {
+      case 'br':
+        langCode = 'pt-BR'
+        break
+      case 'es':
+        langCode = 'es'
+        break
+    }
 
-    return get(child(dbRef, `data/${localStorage.getItem('currentLanguage')}`))
+    return get(child(dbRef, `data/${langCode}`))
       .then((snapshot) => {
         if (snapshot.exists()) {
           const data = snapshot.val()
@@ -93,16 +109,31 @@ const Search: React.FC = () => {
     fetchAndIndex()
   }, [])
 
+  // Scroll to the bottom of the ul element
+  useEffect(() => {
+    if (ulRef.current) {
+      ulRef.current.scrollTop = ulRef.current.scrollHeight
+    }
+  }, [resultHistory])
+
+  // Re-render the component once the lang changes
+  useEffect(() => {
+    setLang(localStorage.getItem('currentLanguage').toUpperCase())
+  }, [localStorage.getItem('currentLanguage')])
+
   // Handle the query change event
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const query = event.target.value
-    setQuery(query)
+  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
 
-    const escapedQuery = query.replace(/[:+-~]/g, '\\$&')
+    const inputValue = event.currentTarget.querySelector('input').value
 
+    if (query === inputValue || !inputValue) return
+
+    setQuery(inputValue)
+    const escapedQuery = inputValue.replace(/[:+-~]/g, '\\$&')
     // Search the index with the escaped query
     if (index) {
-      //  lunr does not support using both fuzzy search and field-based search in the same query.
+      // lunr does not support using both fuzzy search and field-based search in the same query.
       // This is because lunr expects either a field name or a term after the colon (:), not an edit distance modifier (~).
       // To prevent any errors, we set a minimum of X chats to enable the search with the fuzzy option enabled
       // To use a fuzzy search option by add a ~ symbol after the query term
@@ -119,44 +150,54 @@ const Search: React.FC = () => {
       }) as Document[] : []
 
       // Set the results state
-      setResults(results)
-      setShowMoreResults(false)
-      setDisplayedResults(1)
+      if (results.length > 0) setResultHistory((prevResultHistory) => [...prevResultHistory, results[0]])
+
+      setDisplayedResults(maxResults)
     }
   }
 
-  // Handle the show more results event
-  const handleShowMoreResults = () => {
-    setDisplayedResults(displayedResults + 3)
-    if (displayedResults + 3 >= results.length) {
-      setShowMoreResults(false)
-    }
+  const clearQuery = () => {
+    setQuery('')
+    setResultHistory([])
+    setDisplayedResults(0)
+  }
+
+  const handleClear = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+    clearQuery()
   }
 
   // Render the component
   return (
-    <div>
-      <h1>Search Component</h1>
-      <input type='text' value={query} onChange={handleChange} />
-      <ul>
+    <div className='search'>
+      <form className='search__form' onSubmit={handleSubmit} onReset={handleClear}>
+        <div className='search__form__searchbox'>
+          <input type='text' />
+          <button type='submit'>
+            <span className='hdn'>{LANG_SEARCH[lang]?.submit}</span>{'>'}</button>
+        </div>
+        <div className='search__form__clear'>
+          <button type="reset">{LANG_SEARCH[lang]?.reset}</button>
+        </div>
+      </form>
+      <ul className='search__answers' ref={ulRef}>
         {loading ? (
-          <li>Loading...</li>
+          <li>{LANG_SEARCH[lang]?.loading}</li>
         ) : (
-          results.length > 0 ? (
+          resultHistory.length > 0 ? (
             <>
-              {results.slice(0, displayedResults).map((result, index) => (
+              {resultHistory.slice(0, displayedResults).map((result, index) => (
                 <li key={index}>
-                  <h2>{result.question}</h2>
-                  <p>{result.answer}</p>
-                  <p>Confidence Level: {Number(result.confidence).toFixed(2)}</p>
+                  <p><small>{LANG_SEARCH[lang]?.searchingFor} {result?.question}</small></p>
+                  <p>{result?.answer}</p>
+                  <p><small>Confidence Level: {Number(result?.confidence).toFixed(2)}</small></p>
+                  <br />
                 </li>
               ))}
-              {results.length > displayedResults && (
-                <button onClick={handleShowMoreResults}>Show More Results</button>
-              )}
+              {query.length > 1 && resultHistory.length === 0 && <li>{LANG_SEARCH[lang]?.noResults}</li>}
             </>
           ) : (
-            query.length > 1 && <li>No results found</li>
+            query.length > 1 && <li>{LANG_SEARCH[lang]?.noResults}</li>
           )
         )}
       </ul>

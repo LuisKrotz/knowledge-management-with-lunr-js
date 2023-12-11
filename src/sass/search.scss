@@ -3,30 +3,63 @@
 @import '_fonts';
 @import '_placeholders';
 
-.search-box {
+.search {
     max-width: to-rem(320);
     position: relative;
-    margin: to-rem(90) auto;
-    padding: to-rem(21);
+    margin: 0 auto;
+    padding: 0 to-rem(5) to-rem(21);
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column-reverse;
+    flex: 1;
+    align-self: stretch;
+    overflow: hidden;
 
-    &--label {
-        display: block;
+    &__form {
+        display: flex;
+        flex-direction: column-reverse;
+
+        &__searchbox {
+            display: flex;
+            justify-content: space-between;
+            border: 1px solid #000;
+            border-radius: to-rem(5);
+            overflow: hidden;
+
+            input {
+                border: none;
+                border-radius: to-rem(5);
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+                width: 100%;
+            }
+
+            button {
+                border-radius: to-rem(5);
+                padding: to-rem(5) to-rem(10);
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
+                background-color: #2d0064;
+                color: white;
+
+            }
+        }
+
+        &__clear {
+            display: flex;
+            flex-direction: row-reverse;
+
+            button {
+                padding: to-rem(5) 0;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        }
     }
 
-    &--input,
-    &--select {
-        box-sizing: border-box;
-        display: block;
-        width: 100%;
-        font-size: to-rem(16);
-        padding: to-rem(4);
-        border: 1px solid #000;
-        border-radius: 0;
-    }
-
-    &--select {
-        margin-top: to-rem(20);
-        margin-bottom: to-rem(-1);
+    &__answers {
+        max-height: 100%;
+        overflow-y: auto;
+        min-height: 0;
     }
 }
