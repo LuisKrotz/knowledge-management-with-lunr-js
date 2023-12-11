@@ -1,9 +1,10 @@
-import { LANG_ROUTES } from '../app/lang.config'
+import { LANG_ROUTES, LANG_FOOTER } from '../app/lang.config'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 
-function Footer() {
-    const [lang, setLang] = useState<any>(LANG_ROUTES.EN)
+const Footer = (globalLang) => {
+    const [lang, setLang] = useState<any>('en')
+    const [storedLang, setStoredLang] = useState<any>('EN')
 
     const [gitUrl, setGitUrl] = useState('')
 
@@ -16,39 +17,28 @@ function Footer() {
                     setGitUrl(match[1])
                 }
             })
-
         initLang()
     }, [])
 
     useEffect(() => {
         initLang()
-    }, [location])
+    }, [globalLang])
 
     const initLang = () => {
-        const storedLanguage = localStorage.getItem('currentLanguage')
-
-        if (storedLanguage !== null) {
-            const storedLanguageUppercase = storedLanguage.toUpperCase()
-
-            setLang(
-                (LANG_ROUTES as { [key: string]: any })[
-                storedLanguageUppercase
-                ] as string
-            )
-        }
+        setStoredLang(globalLang.globalLang.toUpperCase())
+        setLang(globalLang.globalLang)
     }
-
 
     return (
         <footer className='footer'>
             <nav className='footer__links'>
-                <Link to="/terms-of-use" className='footer__links__item'>Terms of Use</Link>
-                <Link to="/privacy-policy" className='footer__links__item'>Privacy Policy</Link>
-                <Link to="/gdpr" className='footer__links__item'>GDPR and LGPD</Link>
-                <a className='footer__links__item' href={gitUrl.replace('git@github.com:', 'https://github.com/').replace('.git', '')}>Github <span className='hdn'>{lang.main[1]}</span></a>
+                <Link to={'/' + lang + LANG_ROUTES[storedLang]?.termsOfUse[0]} className='footer__links__item'>{LANG_ROUTES[storedLang]?.termsOfUse[1]}</Link>
+                <Link to={'/' + lang + LANG_ROUTES[storedLang]?.privacyPolicy[0]} className='footer__links__item'>{LANG_ROUTES[storedLang]?.privacyPolicy[1]}</Link>
+                <Link to={'/' + lang + LANG_ROUTES[storedLang]?.gdpr[0]} className='footer__links__item'>{LANG_ROUTES[storedLang]?.gdpr[1]}</Link>
+                <a className='footer__links__item' href={gitUrl.replace('git@github.com:', 'https://github.com/').replace('.git', '')}>Github</a>
             </nav>
             <p className='footer__copy'>
-                &copy; {new Date().getFullYear()} Luis Krötz. All rights reserved.
+                &copy; {new Date().getFullYear()} Luis Krötz. {LANG_FOOTER[storedLang]?.allRightsReserved}
 
             </p>
         </footer>

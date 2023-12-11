@@ -3,17 +3,26 @@ import CreateRoutes from '../routes/CreateRoutes'
 import Footer from '../components/Footer'
 
 import '../sass/app.scss'
+import { useState } from 'react'
 
 function App() {
+    const [globalLang, setGlobalLang] = useState<any>(
+        localStorage.getItem('currentLanguage')
+    )
+
+    const getLang = (lang) => {
+        setGlobalLang(lang)
+    }
+
     return (
         <div className="app">
-            <Navbar />
+            <Navbar getLang={getLang} />
 
             <div className='app__main'>
                 <CreateRoutes />
             </div>
 
-            <Footer />
+            <Footer globalLang={globalLang} />
         </div>
     )
 }

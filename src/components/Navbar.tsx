@@ -1,14 +1,14 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-
 import { LANG_ROUTES, LANG_SELECTOR } from '../app/lang.config'
 
-function Navbar() {
+// eslint-disable-next-line react/prop-types
+const Navbar = ({ getLang }) => {
     const navigate = useNavigate()
     const about = ['', '']
 
     const main = ['', '']
-    let selector
+    let selector: string
 
     const [lang, setLang] = useState<any>(
         localStorage.getItem('currentLanguage')
@@ -26,6 +26,7 @@ function Navbar() {
             about[1] = LANG_ROUTES.BR.about[1]
 
             selector = LANG_SELECTOR.BR
+            getLang('br')
 
             return
         }
@@ -38,6 +39,7 @@ function Navbar() {
             about[1] = LANG_ROUTES.ES.about[1]
 
             selector = LANG_SELECTOR.ES
+            getLang('es')
 
             return
         }
@@ -49,6 +51,7 @@ function Navbar() {
         about[1] = LANG_ROUTES.EN.about[1]
 
         selector = LANG_SELECTOR.EN
+        getLang('en')
     }
 
     updateLang()
