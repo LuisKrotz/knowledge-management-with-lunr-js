@@ -13,6 +13,6 @@
     padding: to-rem(80) to-rem(20) to-rem(90);
     margin: 0 auto;
     box-sizing: border-box;
-    height: 100vh;
+    height: calc(100vh - to-rem(60));
     display: flex;
 }

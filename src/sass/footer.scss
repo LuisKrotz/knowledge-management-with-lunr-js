@@ -1,5 +1,5 @@
 .footer {
-    position: fixed;
+    position: relative;
     display: flex;
     width: 100%;
     padding: to-rem(9) to-rem(20);
@@ -7,9 +7,10 @@
     left: 0;
     flex-direction: column;
     align-items: center;
+    font-size: to-rem(13);
 
     &__links {
-        font-size: to-rem(10);
+        font-size: to-rem(13);
         list-style: none;
         display: flex;
         justify-content: center;
@@ -28,6 +29,6 @@
     }
 
     &__copy {
-        font-size: to-rem(10);
+        font-size: to-rem(11);
     }
 }
