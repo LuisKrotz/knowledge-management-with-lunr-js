@@ -1,7 +1,7 @@
 const LANG_ROUTES = {
     BR: {
         about: ['/sobre', 'Sobre'],
-        main: ['/br', 'Gestão do conhecimento com Lunr.js'],
+        main: ['/br', 'TechSolve'],
         gdpr: ['/gdpr', 'GDPR e LGPD'],
         privacyPolicy: ['/política-de-privacidade', 'Política de Privacidade'],
         termsOfUse: ['/termos-de-uso', 'Termos de Uso'],
@@ -9,7 +9,7 @@ const LANG_ROUTES = {
     },
     EN: {
         about: ['/about', 'About'],
-        main: ['/en', 'Knowledge Management with Lunr.js'],
+        main: ['/en', 'TechSolve'],
         gdpr: ['/gdpr', 'GDPR and LGPD'],
         privacyPolicy: ['/privacy-policy', 'Privacy Policy'],
         termsOfUse: ['/terms-of-use', 'Use Terms'],
@@ -17,7 +17,7 @@ const LANG_ROUTES = {
     },
     ES: {
         about: ['/sobre', 'Sobre'],
-        main: ['/es', 'Gestión del conocimiento con Lunr.js'],
+        main: ['/es', 'TechSolve'],
         gdpr: ['/lgpd', 'LGPD y GDPR'],
         privacyPolicy: ['/politica-de-privacidad', 'Política de Privacidad'],
         termsOfUse: ['/terminos-de-uso', 'Términos de Uso'],

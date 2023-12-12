@@ -1,23 +1,27 @@
-.ttl {
-    &-md {
-        font-weight: 400;
-    }
-
-    &-md {
-        font-size: to-rem(21);
-
-        @include layout-1024() {
-            font-size: to-rem(34);
-        }
-    }
+.fira-code {
+    font-family: 'Fira Code', monospace;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
-.txt {
-    &-md {
-        font-size: to-rem(21);
-    }
+.noto-sans {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
 
-    &-sm {
-        font-size: to-rem(13);
-    }
+.noto-bold {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+.noto-emoji {
+    font-family: 'Noto Emoji', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
 }

@@ -172,9 +172,9 @@ const Search: React.FC = () => {
     <div className='search'>
       <form className='search__form' onSubmit={handleSubmit} onReset={handleClear}>
         <div className='search__form__searchbox'>
-          <input type='text' />
+          <input aria-label={LANG_SEARCH[lang]?.label} id='search-input' type='text' placeholder={LANG_SEARCH[lang]?.label} />
           <button type='submit'>
-            <span className='hdn'>{LANG_SEARCH[lang]?.submit}</span>{'>'}</button>
+            <span className='hdn'>{LANG_SEARCH[lang]?.submit}</span>{'💬'}</button>
         </div>
         <div className='search__form__clear'>
           <button type="reset">{LANG_SEARCH[lang]?.reset}</button>
@@ -191,7 +191,8 @@ const Search: React.FC = () => {
                   <p className="search__answers__question">{LANG_SEARCH[lang]?.searchingFor} {result?.question}</p>
                   <p className="search__answers__answer">
                     <span>{result?.answer}</span>
-                    <span>Confidence Level: {Number(result?.confidence).toFixed(2)}</span>
+                    <span>Confidence Level: {Number(result?.confidence).toFixed(2)} <i>{Number(result?.confidence) >= 4.5 ? '✅': '⚠️'}</i>
+                    </span>
                   </p>
                 </li>
               ))}

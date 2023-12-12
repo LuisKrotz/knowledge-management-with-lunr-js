@@ -4,21 +4,24 @@ const LANG_SEARCH = {
         reset: 'Iniciar nova conversa',
         submit: 'Ir',
         noResults: 'Nenhum resultado encontrado, tente outra pergunta',
-        loading: 'Carregando...'
+        loading: 'Carregando...',
+        label: 'Pergunte aqui',
     },
     EN: {
         searchingFor: 'Searching for:',
         reset: 'Start new conversation',
         submit: 'Go',
         noResults: 'No results found, try another question',
-        loading: 'Loading...'
+        loading: 'Loading...',
+        label: 'Ask here',
     },
     ES: {
         searchingFor: 'Buscando por:',
         reset: 'Iniciar nueva conversación',
         submit: 'Ir',
         noResults: 'Ningún resultado encontrado, prueba otra pregunta',
-        loading: 'Cargando...'
+        loading: 'Cargando...',
+        label: 'Pregunta aquí',
     }
 }
 

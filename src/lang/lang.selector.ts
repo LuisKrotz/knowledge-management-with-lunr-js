@@ -1,7 +1,7 @@
 const LANG_SELECTOR = {
     BR: {
         a11yDescription: 'Seleção de Idioma',
-        BR: 'Português Brazil',
+        BR: 'Português Brasil',
         EN: 'Inglês (English)',
         ES: 'Espanhol (Español)'
     },

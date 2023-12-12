@@ -13,6 +13,8 @@
     z-index: 1;
 
     &__title {
+        @extend .noto-bold;
+
         white-space: nowrap;
     }
 
@@ -36,14 +38,31 @@
     }
 
     &__language {
-        width: 100%;
-        max-width: to-rem(160);
+        @extend .fira-code;
+
+        width: to-rem(70);
         margin-left: to-rem(20);
         padding: to-rem(5);
         box-sizing: border-box;
         white-space: nowrap;
         text-overflow: ellipsis;
-        border: 1px solid #000;
-        border-radius: 0;
+        border: 1px solid var(--black);
+        border-radius: to-rem(5);
+
+        // Vendor prefixes for compatibility
+        @supports (-webkit-appearance: none) or (-moz-appearance: none) {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+        }
+
+        &::after {
+            content: '▼';
+            margin-left: to-rem(5);
+        }
+
+        &:focus {
+            outline: 2px solid var(--orange);
+            border: 1px solid var(--orange);
+        }
     }
 }
