@@ -1,6 +1,5 @@
 const LANG_ROUTES = {
     BR: {
-        about: ['/sobre', 'Sobre'],
         main: ['/br', 'TechSolve'],
         gdpr: ['/gdpr', 'GDPR e LGPD'],
         privacyPolicy: ['/política-de-privacidade', 'Política de Privacidade'],
@@ -8,7 +7,6 @@ const LANG_ROUTES = {
         notFound: ['/pagina-nao-encontrada', 'Página náo Encontrada']
     },
     EN: {
-        about: ['/about', 'About'],
         main: ['/en', 'TechSolve'],
         gdpr: ['/gdpr', 'GDPR and LGPD'],
         privacyPolicy: ['/privacy-policy', 'Privacy Policy'],
@@ -16,7 +14,6 @@ const LANG_ROUTES = {
         notFound: ['/page-not-found', 'Page not Found']
     },
     ES: {
-        about: ['/sobre', 'Sobre'],
         main: ['/es', 'TechSolve'],
         gdpr: ['/lgpd', 'LGPD y GDPR'],
         privacyPolicy: ['/politica-de-privacidad', 'Política de Privacidad'],

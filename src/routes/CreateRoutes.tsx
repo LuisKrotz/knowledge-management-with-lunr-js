@@ -1,6 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
 
-import About from '../components/pages/About'
 import Search from '../components/pages/Search'
 import NotFound from '../components/pages/NotFound'
 
@@ -58,14 +57,6 @@ const CreateRoutes = () => {
     return (
         <Routes>
             <Route
-                path={portugueseMain[0] + portuguese.about[0]}
-                element={
-                    <About
-                        data-title={`${portuguese.about[0]} | ${portugueseMain[1]}`}
-                    />
-                }
-            />
-            <Route
                 path={portugueseMain[0]}
                 element={<Search data-title={portugueseMain[1]} />}
             />
@@ -90,15 +81,6 @@ const CreateRoutes = () => {
                 element={
                     <TermsOfUse
                         data-title={`${portuguese.termsOfUse[1]} | ${portugueseMain[1]}`}
-                    />
-                }
-            />
-
-            <Route
-                path={englishMain[0] + english.about[0]}
-                element={
-                    <About
-                        data-title={`${english.about[0]} | ${englishMain[1]}`}
                     />
                 }
             />
@@ -131,14 +113,6 @@ const CreateRoutes = () => {
                 }
             />
 
-            <Route
-                path={spanishMain[0] + spanish.about[0]}
-                element={
-                    <About
-                        data-title={`${spanish.about[0]} | ${spanishMain[1]}`}
-                    />
-                }
-            />
             <Route
                 path={spanishMain[0]}
                 element={<Search data-title={spanishMain[1]} />}

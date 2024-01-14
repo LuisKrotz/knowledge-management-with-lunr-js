@@ -1,35 +1,52 @@
 .footer {
     position: relative;
-    display: flex;
     width: 100%;
     box-sizing: border-box;
     padding: to-rem(9) to-rem(20);
     bottom: 0;
     left: 0;
+    display: flex;
+    font-size: to-rem(13);
     flex-direction: column;
     align-items: center;
-    font-size: to-rem(13);
 
     &__links {
-        font-size: to-rem(13);
+        font-size: to-rem(10);
         list-style: none;
         display: flex;
-        justify-content: center;
+        flex-direction: column;
         width: 100%;
-        margin-bottom: to-rem(5);
+        margin-bottom: to-rem(20);
+        align-items: center;
+        justify-content: center;
+        text-transform: uppercase;
+
+        @include layout-540 {
+            flex-direction: row;
+            font-size: to-rem(13);
+            text-transform: none;
+        }
 
         &__item {
             &:not(:first-of-type) {
                 &::before {
-                    content: '|';
-                    padding: 0 to-rem(5);
-                    position: relative;
+                    @include layout-540 {
+                        content: '|';
+                        padding: 0 to-rem(5);
+                        position: relative;
+                    }
                 }
             }
         }
     }
 
     &__copy {
-        font-size: to-rem(11);
+        font-size: to-rem(9);
+        text-transform: uppercase;
+
+        @include layout-540 {
+            font-size: to-rem(11);
+            text-transform: none;
+        }
     }
 }

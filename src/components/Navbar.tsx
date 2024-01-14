@@ -1,11 +1,10 @@
 import { useEffect, useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { LANG_ROUTES, LANG_SELECTOR } from '../app/lang.config'
 
 // eslint-disable-next-line react/prop-types
 const Navbar = ({ getLang }) => {
     const navigate = useNavigate()
-    const about = ['', '']
 
     const main = ['', '']
     let selector
@@ -22,9 +21,6 @@ const Navbar = ({ getLang }) => {
             main[0] = LANG_ROUTES.BR.main[0]
             main[1] = LANG_ROUTES.BR.main[1]
 
-            about[0] = main[0] + LANG_ROUTES.BR.about[0]
-            about[1] = LANG_ROUTES.BR.about[1]
-
             selector = LANG_SELECTOR.BR
             getLang('br')
 
@@ -35,9 +31,6 @@ const Navbar = ({ getLang }) => {
             main[0] = LANG_ROUTES.ES.main[0]
             main[1] = LANG_ROUTES.ES.main[1]
 
-            about[0] = main[0] + LANG_ROUTES.ES.about[0]
-            about[1] = LANG_ROUTES.ES.about[1]
-
             selector = LANG_SELECTOR.ES
             getLang('es')
 
@@ -47,8 +40,6 @@ const Navbar = ({ getLang }) => {
         main[0] = LANG_ROUTES.EN.main[0]
         main[1] = LANG_ROUTES.EN.main[1]
 
-        about[0] = main[0] + LANG_ROUTES.EN.about[0]
-        about[1] = LANG_ROUTES.EN.about[1]
 
         selector = LANG_SELECTOR.EN
         getLang('en')
@@ -74,7 +65,7 @@ const Navbar = ({ getLang }) => {
     return (
         <div className="navbar">
             <h1 className="navbar__title">
-                {main[1]}
+                <Link to={'/' + lang }>{main[1]}</Link>
             </h1>
 
             <div className="navbar__right">
