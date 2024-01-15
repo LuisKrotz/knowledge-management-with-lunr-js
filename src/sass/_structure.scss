@@ -2,16 +2,14 @@
     --white: #ffffff;
     --black: #000000;
     --grey-1: #aeb5b7;
-    --grey-2: #dce6ea;
+    --grey-2: #e6e6e6;
     --grey-3: #494d50;
-    --orange: #da5801;
-    --blue: rgb(24, 73, 151);
-    --pink: rgb(151, 24, 151);
+    --dark-blue: rgb(0, 51, 86);
 }
 
 html,
 body {
-    overflow-x: hidden;
+    overflow: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }

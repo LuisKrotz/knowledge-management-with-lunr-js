@@ -13,9 +13,13 @@
     padding: to-rem(80) to-rem(20) to-rem(90);
     margin: 0 auto;
     box-sizing: border-box;
-    height: calc(100vh - to-rem(60));
+    height: calc(100vh - to-rem(90));
     display: flex;
     overflow-y: auto;
+
+    @include layout-540 {
+        height: calc(100vh - to-rem(60));
+    }
 
     &__sub-container {
         position: relative;

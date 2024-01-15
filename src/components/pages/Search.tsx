@@ -174,7 +174,7 @@ const Search: React.FC = () => {
         <div className='search__form__searchbox'>
           <input aria-label={LANG_SEARCH[lang]?.label} id='search-input' type='text' placeholder={LANG_SEARCH[lang]?.label} />
           <button type='submit'>
-            <span className='hdn'>{LANG_SEARCH[lang]?.submit}</span>{'💬'}</button>
+            <span className='hdn'>{LANG_SEARCH[lang]?.submit}</span>➤</button>
         </div>
         <div className='search__form__clear'>
           <button type="reset">{LANG_SEARCH[lang]?.reset}</button>
